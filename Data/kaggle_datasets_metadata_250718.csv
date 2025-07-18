@@ -1,0 +1,792 @@
+ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+urvishahir/electric-vehicle-specificatio,s-dataset-2025                 Electric Vehi,le Specs,Dataset (202,)🔋🚗,166,1  2025-06-20 07:14:56.777000           8823        214  1.0
+sahilislam007/college-student-placement-,actors-dataset                 College Stude,t Placem,nt Factors D,taset,1104,0  2025-07-02 08:33:50.547000           3874         71  1.0
+divyaraj2006/social-media-engagement,social media,ngagemen,,,21,2  2025-07-02 15:34:21.323000           4631         79  1.0
+ankushpanday2/indian-kids-screentime-202,Indian Kids S,reentime,2025,,700,1  2025-07-08 17:25:35.483000           2294         44  1.0
+adilshamim8/salaries-for-data-science-jo,"s                              Data Science,",AI & ML,ob Salaries,n 2025,23989,1  2025-07-12 03:50:31.453000           5472        110  1.0
+rudraprasadbhuyan/spotify-dataset-for-ml,practice                       Spotify Datas,t for ML,Practice,,235118,2  2025-07-13 17:26:28.307000            849         29  1.0
+imtkaggleteam/medical-information-datase,Medical Infor,ation Da,aset,,1985088,9  2025-07-15 16:32:34.703000            408         26  0.88235295
+junaid512/bmw-car-sales-classification-d,taset                          BMW Car Sales,Classifi,ation Datase,,8475,8  2025-06-25 16:59:19.910000           1452         27  0.8235294
+atharvasoundankar/global-student-migrati,n-and-higher-education-trends  Global Studen,Migrati,n & Higher E,ucation Tren,s      1217,1  2025-07-02 12:08:00.377000           1860         59  1.0
+adilshamim8/netflix-stock-price-history,NETFLIX STOCK,PRICE HI,TORY,,1267,6  2025-07-17 06:23:48.743000           2311         51  1.0
+iamtanmayshukla/cardiac-arrest-dataset,Cardiac Arres,Dataset,,,63,9  2025-06-19 18:44:20.507000           1101         25  1.0
+sumanbera19/laptop-price-dataset,Laptop Price,nd Speci,ication Data,et,1186,2  2025-06-24 02:55:26.153000           1285         24  1.0
+khushikyad001/teen-phone-addiction-and-l,festyle-survey                 Teen Phone Ad,iction a,d Lifestyle,urvey,1213,2  2025-06-28 05:53:15.763000           2303         37  1.0
+sahilislam007/ai-impact-on-job-market-20,42030                          AI Impact on,ob Marke,: (2024–2030,,9675,4  2025-06-28 07:44:15.533000           1730         41  1.0
+ayeshasal89/ai-assistant-usage-in-studen,-life-synthetic                AI Assistant,sage in,tudent Life,,1472,7  2025-06-25 10:23:02.813000           1585         38  0.9411765
+adilshamim8/microsoft-stock-price-histor,MICROSOFT STO,K PRICE,ISTORY,,3755,6  2025-07-16 14:48:46.207000            651         21  1.0
+vinayaks0n1/ipl-2025,IPL 2025,,,,81,9  2025-06-22 04:53:34.497000           2282         42  1.0
+gauravkumar2525/zomato-restaurant-datase,Zomato Restau,ant Data,et,,21151,6  2025-06-19 16:32:09.067000           1293         25  0.88235295
+dansbecker/melbourne-housing-snapshot,Melbourne Hou,ing Snap,hot,,4614,3  2018-06-05 12:52:24.087000         185687       1651  0.7058824
+anandshaw2001/top-spotify-songs-in-count,ies                            Top Spotify L,stening,istory Songs,in Countries,63892,8  2025-06-15 05:01:56                  2728         58  1.0
+datasnaek/youtube-new,Trending YouTube Video,tatistic,,2105757,6  2019-06-,3 00:56:47.177000         277612       5722  0.7941176
+zynicide/wine-reviews,Wine Reviews,,,533362,3  2017-11-,7 17:08:04.700000         330003       3754  0.7941176
+abdulwadood11220/netflix-customer-churn-,ataset               Netflix Customer Churn,ataset,,1900,4  2025-07-,5 21:38:12.010000           1449         32  1.0
+datasnaek/chess,Chess Game Dataset (Lic,ess),,29037,0  2017-09-,4 03:09:09.453000          56463       1362  0.8235294
+rtatman/188-million-us-wildfires,1.88 Million US Wildfir,s,,1762705,9  2020-05-,2 21:03:49.213000          38298       1366  0.8235294
+dansbecker/powerlifting-database,powerlifting-database,,,92776,0  2019-04-,0 21:07:41.560000          21399        294  0.5882353
+residentmario/ramen-ratings,Ramen Ratings,,,407,2  2018-01-,1 16:04:39.893000          51149        945  0.7058824
+nasa/kepler-exoplanet-search-results,Kepler Exoplanet Search,Results,,12155,9  2017-10-,0 18:26:59.497000          18589        822  0.8235294
+sahilislam007/e-commerce-customer-analyt,cs-loyalty-vs-fraud  E-Commerce Customer Ana,ytics :,oyalty vs Fr,ud      1123,0  2025-06-,0 08:14:30.117000            865         27  1.0
+nolanbconaway/pitchfork-data,"18,393 Pitchfork Review",,,348914,6  2017-01-,3 04:18:10.113000          15815        431  0.7058824
+jpmiller/publicassistance,US Public Food Assistan,e 1 - WI,,3040,1  2023-04-,7 20:01:05.960000          23356        478  0.9411765
+residentmario/things-on-reddit,Things on Reddit,,,167732,0  2017-10-,6 14:10:15.157000          13700        299  0.5882353
+vinayaks0n1/imdb-tv-show-reviews,IMDB TV Show Reviews,,,23143,3  2025-06-,1 10:09:35.927000           1049         32  1.0
+chaudharisanika/smartphones-dataset,Smartphones Dataset,,,224,2  2025-06-,5 15:50:56.727000           5751         97  1.0
+nibeditasahu/electric-vehicle-population,analysis             Electric Vehicle Popula,ion Anal,sis,105642,9  2025-06-,3 16:59:18.427000           1282         26  0.88235295
+atharvasoundankar/road-accidents-dataset,🚧 Road Traffic Acciden,Data –,nited Kingdo,75620,0  2025-07-,9 12:12:41.773000            921         24  1.0
+divyaraj2006/instagram-data,INSTAGRAM DATA,,,5,1  2025-06-,5 07:35:16.900000           1396         35  1.0
+melissamonfared/spotify-tracks-attribute,-and-popularity      Spotify Tracks Attribut,s and Po,ularity,85715,0  2025-07-,9 21:31:43.180000            898         28  1.0
+shalmamuji/electricity-cost-prediction-d,taset                Electricity cost predic,ion data,et,1580,6  2025-07-,3 21:22:59.450000            696         27  1.0
+khwaishsaxena/lung-cancer-dataset,Lung Cancer Dataset,,,191466,7  2025-06-,5 03:39:42.770000           2722         54  1.0
+iabhishekofficial/mobile-price-classific,tion                  Mobile Price Classific,tion,,72340,2018-01-28,08:44:24.237000         227705       2335  0.7058824
+anandkushawaha/aviation-crashed-flights-,ata                   Aviation Crashed Fligh,s Data,,95824,2025-07-08,12:33:56.673000            613         23  1.0
+bismasajjad/global-ai-job-market-and-sal,ry-trends-2025        Global AI Job Market &,Salary T,ends 2025,1130756,2025-06-29,08:16:54.867000          15471        257  1.0
+tanishksharma9905/top-popular-anime,Top Popular Anime,,,5363394,2025-06-18,16:51:50.807000           1039         28  1.0
+rakeshkapilavai/extrovert-vs-introvert-b,havior-data           Extrovert vs. Introver,Behavio,Data,31277,2025-06-13,14:26:48.303000          28849        559  1.0
+turakut/plant-disease-classification,Plant Disease Classifi,ation,,358274,2025-06-22,07:54:27.970000           1013         28  1.0
+prekshad2166/student-study-habits,Student Study Habits,,,22339,2025-06-13,06:17:45.500000           1217         19  1.0
+kshitijsaini121/remote-work-of-health-im,act-survey-june-2025  Remote Work Of Health,mpact Su,vey June 202,45354,2025-07-05,04:28:08.293000            730         25  0.88235295
+dansbecker/home-data-for-ml-course,home data for ml cours,,,96211,2019-01-23,00:45:18.757000          24009        253  0.3529412
+imtkaggleteam/health-insurance-dataset,Health Insurance Datas,t,,20398,2025-07-05,11:59:00.730000           1211         36  1.0
+kfoster150/grammy-award-nominees-and-win,ers-1958-2024         Grammy Award Nominees,nd Winne,"s, 1958-2024",815767,2025-06-20,23:26:04.270000           1211         39  1.0
+rakeshkapilavai/ai-tool-usage-by-indian-,ollege-students-2025  AI Tool Usage by India,College,Students 202,90645,2025-06-09,12:37:13.017000           2273         47  1.0
+rdmpage/new-training-labels,Make Data Count traini,g labels,,13198,2025-07-03,09:05:30.283000            352         24  0.64705884
+khushikyad001/mental-health-and-burnout-,n-the-workplace       Mental Health & Burnou,in the,orkplace,109284,2025-07-04,13:15:36.800000           1223         26  1.0
+mfayyazgiki/ecommerce,eCommerce dataset 2025,,,7407,2025-06-26,20:04:42.357000            875         24  1.0
+rajansavaliya22/popular-movies-dataset,Popular movies dataset,,,57811950,2025-06-29,08:24:16.413000            952         19  1.0
+darrendube/airlinedataset,Airline Performance Da,a: FY 20,2/23,3265,2025-06-30,18:58:09.330000           1253         33  1.0
+ziya07/college-student-management-datase,College Student Manage,ent Data,et,30212,2025-06-28,04:47:26.503000           1578         24  0.88235295
+pratyushpuri/stock-market-june-2025-data,et                    Stock Market Predictio,2025 Da,aset,81270,2025-06-21,21:12:31.977000           1840         45  0.9411765
+michaelhakim/zara-sales-analysis,Zara Sales Analysis,,,3708593,2025-06-18,14:59:51.397000           2438         33  0.9411765
+pratyushpuri/remote-work-health-impact-s,rvey-2025           Remote Work Health Impac,Survey,025,4,354  2025-0,-01 08:42:38.937000           1740         39  0.9411765
+saanvitayal07/teen-mental-health-chatbot,dataset             teen_mental_health_chatb,t_datase,,,880  2025-0,-22 10:34:00.777000            489         21  0.9411765
+pratyushpuri/crypto-market-sentiment-and,price-dataset-2025  Cryptocurrency Market Se,timent &,Price Data 2,25         9,215  2025-0,-04 14:42:53.677000            671         26  0.9411765
+gmudit/linear-regression-dataset-synthet,c                   Linear_Regression_Datase,[Synthe,ic],1,915  2025-0,-28 05:50:49.333000            630         25  1.0
+shivvm/popular-movies-imdb-reviews-datas,t                   IMDB Movies Reviews Data,et,,349,548  2025-0,-11 06:49:44.707000            465         21  1.0
+subhajournal/shoppers-behavior-and-reven,e                   Shopper's Behavior and R,venue,,25,315  2025-0,-12 17:02:41.527000            893         24  1.0
+adilshamim8/tesla-stock-price-history,TESLA STOCK PRICE HISTOR,,,9,769  2025-0,-13 07:55:41.963000           1442         45  1.0
+ankit07chy/mobile-uncleaned-data-set-scr,pped-real-website   Mobile Uncleaned Data Se,Scrappe,(Real Websi,e)         5,646  2025-0,-27 17:54:03.940000            475         23  1.0
+omrathod2003/140-most-popular-crops-imag,-dataset            Plants and Crops Image D,taset Fo,Agriculture,1279835,406  2025-0,-29 16:44:18.387000           1273         27  1.0
+kanchana1990/real-estate-data-south-caro,ina-2025            Real Estate Data South C,rolina 2,25,4,524  2025-0,-08 05:52:15.080000            476         26  1.0
+muhammadazam121/student-performance-data,student-performance-data,,,6,739  2025-0,-14 04:11:38.953000           1889         39  1.0
+milapgohil/flavorsense-tastes-predicted-,y-life-and-climate  🍽️FlavorSense: Tastes Pr,dicted b,Life & Clim,te         4,106  2025-0,-16 06:25:53.117000            716         24  1.0
+tanishksharma9905/global-economic-indica,ors-20102025        Global Economic Indicato,s (2010–,025)- World,ank       26,193  2025-0,-22 17:13:44.997000           2061         28  1.0
+marcelbiezunski/laliga-matches-dataset-2,19-2025-fbref       LaLiga Matches Dataset (,019-2025,FBref),14,433  2025-0,-20 22:11:51.263000           1120         42  1.0
+parulpandey/palmer-archipelago-antarctic,-penguin-data       Palmer Archipelago (Anta,ctica) p,nguin data,1,558  2020-0,-09 10:14:54.563000          99580        673  0.9705882
+madankhatri123h/books-dataset,Books Dataset,,,36,327  2025-0,-11 12:38:45.230000           2170         43  1.0
+sahilislam007/health-and-lifestyle-datas,t                   Health And Lifestyle Dat,set,,12,230  2025-0,-25 09:52:01.580000           2486         53  1.0
+mlg-ulb/creditcardfraud,Credit Card Fraud Detect,on,,6915,672  2018-0,-23 01:17:27.913000         924508      12319  0.85294116
+yasserh/titanic-dataset,Titanic Dataset,,,2,564  2021-1,-24 14:53:06.913000         167031        531  1.0
+alexisbcook/data-for-datavis,Interesting Data to Visu,lize,,14,429  2022-0,-29 20:37:30.880000          97991        356  0.3529412
+aslawant/superhero-movies-dataset,Superhero Movies D,taset,,,15959,025-06-30 13:36:42.227000            969         34  1.0
+pratsharma7/the-american-express-campus-,hallenge-dataset          The American Expre,s Campus,Challenge Da,aset,115870625,025-07-06 06:50:20.080000            716         26  1.0
+zlatan599/mushroom1,Mushroom species r,cognitio,,1,118896052,025-06-06 17:07:33.480000           2169         35  1.0
+shivamb/netflix-shows,Netflix Movies and,TV Shows,,,1400865,021-09-27 04:44:36.770000         611229       9196  1.0
+imtkaggleteam/kidney-stone-classificatio,-and-object-detection     Kidney Stone | Cla,sificati,n and Object,Detection,225076257,025-07-03 14:04:13.163000            161         21  0.875
+abdulwadood11220/youtube-data-for-analyt,cs-600-rows               YouTube data for A,alytics,600 rows),,242039,025-06-21 01:01:10.737000           1370         38  1.0
+youssefelebiary/industrial-residential-a,r-quality-classification  Industrial-Residen,ial Air,uality Class,fication,753040,025-06-21 10:45:38.100000           1058         30  1.0
+abdulwadood11220/usa-house-sales-data,USA House Sales Da,a,,,137669,025-06-22 10:52:07.067000           1551         31  1.0
+michaelhakim/walmart-sales-analysis,Walmart sales anal,sis,,,959682,025-06-18 14:29:58.397000           2822         43  0.9411765
+nailasrivastava/drugs-side-effects-and-m,"dical-conditions          Drugs, Side_Effect",& Medic,l_Conditions,,1325873,025-06-15 08:12:12.643000           1080         24  1.0
+pranjalyadav92905/titanic-eda-data,Titanic EDA Data,,,,22548,025-07-04 15:35:18.670000            608         26  1.0
+uciml/iris,Iris Species,,,,3687,016-09-27 07:38:05.440000         718198       4292  0.7941176
+khwaishsaxena/vehicle-price-prediction-d,taset                     Vehicle Price Pred,ction Da,aset,,307492,025-06-23 05:12:07.013000           1647         32  1.0
+adilshamim8/people-detection,People Detection D,taset,,,086864755,025-06-15 08:50:40.623000            446         14  1.0
+tanishksharma9905/pokemon-data-csv,Comprehensive Poke,on Datas,t,,54349,025-06-17 11:28:45.743000           2388         38  1.0
+harishthakur995/mcdonald-vs-burger-king,Mcdonald vs Burger,king,,,828884,025-06-18 11:56:30.247000           1306         30  1.0
+sudipde25/mri-dataset-for-detection-and-,nalysis                   Brain MRI Dataset,or Tumor,Detection an,Analysis,0,025-07-17 17:39:04.050000            744         31  1.0
+uciml/pima-indians-diabetes-database,Pima Indians Diabe,es Datab,se,,9128,016-10-06 18:31:56.823000         665224       4676  0.88235295
+samvelkoch/global-airports-iata-icao-tim,zone-geo                  Global Airports Da,aset (IA,"A, ICAO, Tim",zone)  ✈️,245276,025-06-23 19:05:43.623000            630         24  0.9411765
+jessicali9530/animal-crossing-new-horizo,s-nookplaza-dataset  Animal Crossing New Hor,zons Cat,log,590,70  2021-06,08 15:05:09.513000          78025      53314  0.88235295
+khwaishsaxena/mobile-phone-pricing-datas,t                    Mobile Phone Pricing Da,aset,,47,96  2025-06,23 04:24:57.307000            999         28  1.0
+adilshamim8/social-media-addiction-vs-re,ationships           Students' Social Media,ddiction,,7,51  2025-05,10 14:38:02.713000          31001        439  1.0
+vivek468/superstore-dataset-final,Superstore Dataset,,,562,46  2022-02,17 11:33:07.720000         142051        767  1.0
+blastchar/telco-customer-churn,Telco Customer Churn,,,175,58  2018-02,23 18:20:00.210000         378821       3120  0.88235295
+datahackers/state-of-data-brazil-2024202,State of Data Brazil 20,4-2025,,1723,56  2025-05,09 17:40:45.890000            871        156  1.0
+furkanima/worldwide-travel-cities-rating,-and-climate         Worldwide Travel Cities,(Ratings,and Climate),116,65  2025-06,10 18:45:53.120000           1389         30  1.0
+bkcoban/retail-transaction-dataset,Retail Transaction Data,et,,538,41  2025-05,30 12:37:34.913000           1077         26  1.0
+hacker-news/hacker-news,Hacker News,,,,0  2019-02,12 00:34:51.853000              0        607  0.7058824
+younusmohamed/wellington-zone-1-power-co,sumption             Wellington Zone 1 Power,Consumpt,on,3128,81  2025-07,04 17:34:34.910000             94         27  1.0
+joycemara/european-fashion-store-multita,le-dataset           Multitable Ecommerce Eu,opean Fa,hion,64,91  2025-06,23 11:34:08.443000            905         23  0.7058824
+denvermagtibay/ai-generated-essays-datas,t                    AI Generated Text Datas,t,,1460,46  2025-07,03 08:07:04.933000            161          5  1.0
+karkavelrajaj/amazon-sales-dataset,Amazon Sales Dataset,,,2043,33  2023-01,17 06:21:15.450000         179488       1054  1.0
+youssefelebiary/google-stock-prices-2015,2024                 Google Stock Prices (20,5-2024),,43,56  2025-06,22 20:39:33.403000            284         11  1.0
+ryanholbrook/dl-course-data,DL Course Data,,,242157,06  2020-09,11 17:01:17.383000          37746        132  0.5882353
+iamtanmayshukla/breast-cancer-diagnostic,data-set             Breast Cancer Diagnosti,Data Se,,49,14  2025-06,25 21:34:56.323000            338         21  1.0
+canozensoy/dinosaur-genera-dataset,Dinosaur Genera Dataset,,,69,99  2025-07,06 07:24:36.337000            118         21  0.88235295
+akashbommidi/2026-qs-world-university-ra,kings                2026 QS World Universit,Ranking,,79,00  2025-06,20 17:32:43.993000           1181         36  1.0
+yashmotiani/blinkit-marketing-and-custom,r-powerbi-dashbord   Blinkit Marketing and C,stomer F,edback Dashb,ard     9330,15  2025-06,16 14:58:16.297000           1774         28  0.9411765
+tfisthis/global-ai-tool-adoption-across-,ndustries             Global AI Tool Adoptio,Across,ndustries,184,1524  2025-,6-03 10:46:42.753000           1801         37  0.9411765
+sahilislam007/youth-tobacco-survey-in-in,ian-states            Youth Tobacco Survey I,Indian,tates,,2491  2025-,6-15 05:53:30.500000            545         23  1.0
+chaudharisanika/india-area-and-populatio,-density-census-2011  India Area and Populat,on Densi,y - Census 2,11,5956  2025-,6-26 17:02:24.953000           1077         29  1.0
+renecardoso/national-survey-on-school-dr,pout                  National Survey on Sch,ol Dropo,t,14,7780  2025-,6-20 17:47:42.010000            326         12  0.9411765
+sinatavakoli/books-dataset-for-nlp-and-r,commendation-systems  Books Dataset for NLP,Recomme,dation Syste,s         20,9930  2025-,7-02 13:48:19.823000            111         17  1.0
+spscientist/students-performance-in-exam,Students Performance i,Exams,,,8907  2018-,1-09 18:25:25.037000         375413       4708  0.7058824
+amitksingh2103/trending-movies-over-the-,ears                  Trending Movies Datase,: 1990 t,2025,15,2320  2025-,5-25 10:16:24.987000           1248         23  1.0
+umerhaddii/toyota-stock-data-2025,TOYOTA Stock Data 2025,,,2,7011  2025-,6-27 05:30:27.570000            514         36  1.0
+harishthakur995/mcdonalds-finanacial-dat,-2021-2024            Mcdonalds finanacial d,ta 2021-,024,,9483  2025-,7-08 12:28:07.540000            139          3  1.0
+chicago/chicago-crime,Chicago Crime,,,,0  2018-,4-17 21:52:18.170000              0       1175  0.7058824
+pratyushpuri/global-ai-job-market-trend-,025                   Global AI Job Market T,ends & S,lary Insight,2025      5,9004  2025-,6-29 16:35:50.887000            967         25  0.88235295
+princekhunt19/700-jobs-data-of-ai-and-da,a-fields-2025         700+ JOBs Data of AI &,Data Fie,ds | 2025,26,3262  2025-,6-26 13:40:39.490000            462          7  1.0
+lakshmi25npathi/imdb-dataset-of-50k-movi,-reviews              IMDB Dataset of 50K Mo,ie Revie,s,269,2657  2019-,3-09 06:32:21.130000         310323       1438  0.8235294
+banuprasadb/visdrone-dataset,VisDrone Dataset,,,22512,8022  2025-,6-28 12:49:31.430000            217         12  1.0
+rishgeeky/indian-pharmaceutical-products,Indian Pharmaceutical,roducts,,110,0520  2025-,6-19 18:14:33.773000           1155         27  1.0
+milapgohil/car-dataset,Indian Car Sell Datase,🚗 - Bra,"d, Model & P",ice       22,4822  2025-,6-20 09:15:34.320000           1730         35  1.0
+paultimothymooney/chest-xray-pneumonia,Chest X-Ray Images (Pn,umonia),,24633,5435  2018-,3-24 19:41:59.603000         477122       7043  0.75
+icebearogo/fruit-classification-dataset,Fruit Classification D,taset,,6592,1086  2025-,5-26 21:13:05.733000           2199         41  0.9411765
+sahilislam007/loan-factors-prediction-da,aset                  Loan Factors Predictio,Dataset,,4,4827  2025-,6-21 09:02:24.590000            686         24  1.0
+gregorut/videogamesales,Video Game Sale,,,,390286,2016-10-26 09:10:49.853000         702594       6467  0.5882353
+prashantdhanuk/global-country-metrics-20,5-hdi-gdp-pop-area           UN Countries Me,rics 202,": HDI, GDP,","OP, AREA",7098,2025-06-16 19:58:24.730000            697         26  0.9411765
+skullagos5246/upi-transactions-2024-data,et                           UPI Transaction,2024 Da,aset,,5657850,2025-06-14 21:39:13.250000           1284         29  1.0
+youssefelebiary/global-air-quality-2023-,-cities                      Global Air Qual,ty (2023,- 6 Cities,,1947473,2025-06-16 22:38:43.947000           1440         38  1.0
+naivedatamodel/india-rain-agriculture-ov,r-the-span-of-52-years       India Rain + Ag,iculture,over the spa,of 52 years,255198,2025-06-17 17:25:00.103000            801         31  1.0
+developerghost/intrusion-detection-logs-,ormal-bot-scan               Intrusion Detec,ion Logs,"(Normal, Bot",Scan),357290,2025-07-02 07:04:22.937000            166          8  1.0
+jacopoferretti/lung-capacity-of-kids,Lung Capacity o,Kids,,,6214,2025-06-19 00:39:14.950000            807         36  1.0
+carlmcbrideellis/kaggle-grandmasters-dat,set-updated-daily            Kaggle Grandmas,ers data,et (Updated,aily),31541,2025-07-16 23:46:35.503000             12         10  1.0
+edacelikeloglu/nasa-space-weather-data,NASA_space_weat,er_data,,,1443326,2025-07-15 13:36:07.223000             61         17  0.7647059
+kanakbaghel/hospital-management-dataset,Hospital Manage,ent Data,et,,11375,2025-05-30 14:40:55.287000           3636         47  0.9411765
+laurenainsleyhaines/patch-25-11-league-o,-legends-champion-data-2025  Patch 25.11 Lea,ue of Le,ends Champio,Data (2025),37115,2025-06-05 18:52:56.937000            405         23  1.0
+uciml/sms-spam-collection-dataset,SMS Spam Collec,ion Data,et,,215934,2016-12-02 19:29:17.523000         288067       1676  0.7352941
+brendan45774/test-file,Titanic dataset,,,,11514,2021-12-02 16:11:42.367000         183118       1444  1.0
+nimishasen27/spotify-dataset,Spotify Dataset,,,,86220009,2025-06-03 15:57:23.487000           1510         28  0.9411765
+kayleefranklin/predict-the-age-of-a-tril,bite                         Predict the Age,of a Tri,obite Fossil,,736311,2025-06-11 22:27:25.353000            547         29  1.0
+umerhaddii/f1-25-canada-austria-uk-gps,F1-25: Canada -,Austria,UK GPs,,108763,2025-07-11 06:42:35.823000             14         16  0.9411765
+kyanyoga/sample-sales-data,Sample Sales Da,a,,,79402,2016-11-24 01:32:33.887000         225170       1075  0.7058824
+therohithanand/movie-genre-classificatio,Movie Genre Cla,sificati,n,,1595063,2025-06-20 07:20:14.807000           1844         41  1.0
+khaledxbenali/airline-loyalty-program,Airline Loyalty,Program,,,2710876,2025-06-19 09:16:33.300000            257          8  0.9411765
+senkin13/rdkit-2025-3-3-cp311,rdkit-2025.3.3-,p311,,,34533711,2025-06-17 02:23:05.460000            289         14  0.1875
+shalmamuji/personality-prediction-data-i,trovert-extrovert    Personality prediction,ata | in,rovert extro,ert       16,292  2025-0,-12 10:38:45.273000           1111         34  1.0
+akashbommidi/exoplanets-dataset,Exoplanets - We are Not,Alone!,,69,526  2025-0,-21 05:01:03.513000            551         27  1.0
+therohithanand/used-car-price-prediction,Used Car Price Predicti,n,,14,387  2025-0,-09 08:04:12.570000           3322         37  1.0
+fedesoriano/heart-failure-prediction,Heart Failure Predictio,Dataset,,,762  2021-0,-10 18:11:57.517000         217375       2926  1.0
+tfisthis/enterprise-genai-adoption-and-w,rkforce-impact-data  Enterprise GenAI Adopti,n & Work,orce Impact,ata      308,470  2025-0,-12 09:47:41.007000            402         15  1.0
+johnsmith88/heart-disease-dataset,Heart Disease Dataset,,,,325  2019-0,-06 15:33:55.463000         244507       1418  0.88235295
+marcelbiezunski/serie-a-matches-dataset-,020-2025             Serie A Matches Dataset,(2020-20,5),12,810  2025-0,-06 12:56:58.500000             89          8  1.0
+thanhlamdev/rain-forecast-dataset,Rain Forecast Dataset,,,286835,844  2025-0,-22 15:07:22.293000             33         15  1.0
+adilshamim8/nvidia-stock-market-history,NVIDIA STOCK MARKET HIS,ORY,,26,738  2025-0,-11 08:22:59.997000           1299         29  1.0
+iamtanmayshukla/pneumonia-radiography-da,aset                 Pneumonia Dataset with,hest X-R,y,121440,118  2025-0,-26 20:17:59.717000             82         18  0.75
+zeeshanahmad124586/psl-complete-dataset-,016-2025             PSL Complete Dataset (2,16-2025),,76,083  2025-0,-03 10:26:22.827000             20         10  1.0
+pavansubhasht/ibm-hr-analytics-attrition,dataset              IBM HR Analytics Employ,e Attrit,on & Perform,nce        5,314  2017-0,-31 06:55:16.973000         241535       2717  0.88235295
+msambare/fer2013,FER-2013,,,6325,113  2020-0,-19 12:24:26.627000         213806       1560  0.75
+palvinder2006/zepto-inventory-dataset,Zepto Inventory Dataset,,,25,115  2025-0,-16 06:35:35.313000           4719         38  1.0
+beatafaron/telco-customer-churn-realisti,-customer-feedback   Telco Customer Churn +,ealistic,Customer Fee,back     195,686  2025-0,-23 13:06:02.087000            594         15  1.0
+storytellerman/mecfs-vs-depression-class,fication-dataset     ME/CFS vs Depression Cl,ssificat,on Dataset,1,667  2025-0,-08 14:26:25.470000            779         25  1.0
+uciml/breast-cancer-wisconsin-data,Breast Cancer Wisconsin,(Diagnos,ic) Data Set,4,796  2016-0,-25 10:49:04.067000         462466       3842  0.85294116
+tfisthis/global-air-quality-and-respirat,ry-health-outcomes   Global Air Quality and,espirato,y Health Out,omes     180,169  2025-0,-07 14:49:36.480000           2399         39  1.0
+ryanholbrook/fe-course-data,FE Course Data,,,2702,163  2021-0,-08 22:04:20.690000          38671         66  0.5
+wilomentena/lgbt-rights-worldwide,LGBT+ rights worldwide,2025),,,389  2025-0,-10 16:22:14.733000            530         28  1.0
+mirichoi0218/insurance,Medical Cost Personal Dat,sets,,16425,2018-02-21,00:15:14.117000         328290       2923  0.88235295
+minatoyukinaxlisa/tc-smiles,Tc_SMILES,,,7639,2025-06-18,13:58:32.203000            633         16  0.47058824
+kelvinobiri/credit-card-transactions,Credit_Card_Transactions,,,6249108,2025-06-28,09:33:12.710000            114          4  0.9411765
+canozensoy/dinosaur-tactical-action-data,et                Dinosaur Tactical Action D,taset,,10215577,2025-07-06,09:33:04.890000             17         21  0.88235295
+adilshamim8/google-stocks-historical-dat,GOOGLE STOCKS HISTORICAL D,TA,,216895,2025-07-10,08:25:26.547000           1064         28  1.0
+icebearogo/traffic-sign-detection-datase,Traffic Sign Detection Dat,set,,3782719187,2025-05-30,20:19:02.417000            507         28  1.0
+hojjatk/mnist-dataset,MNIST  Dataset,,,23112702,2019-01-08,13:01:57.983000         162287        524  0.75
+tmdb/tmdb-movie-metadata,TMDB 5000 Movie Dataset,,,9317430,2017-09-28,01:09:12.897000         451417       4082  0.8235294
+yagizfiratt/turkish-superleague-players-,alaries-20242025  Turkish Super League Playe,s Salari,s (2024/2025,14560,2025-07-03,05:21:03.920000             87          4  1.0
+aparnashastry/building-permit-applicatio,s-data            San Francisco Building Per,its,,18892000,2018-03-13,22:55:40.153000          27278        279  0.8235294
+negoto/mordred-1-2-0-py3-none-any,mordred-1.2.0-py3-none-any,,,2107336,2025-06-21,11:35:28.640000             33          0  0.6875
+philiphyde1/time-series-supply-chain-dat,set               Time Series Supply Chain D,taset,,982625,2025-06-29,21:25:06.257000            109          1  1.0
+ravi20076/playgrounds5e6models,PlaygroundS5E6|Models,,,5176199182,2025-06-30,21:14:21.627000              6         17  0.9411765
+khushikyad001/the-true-cost-of-fast-fash,on-impact         The True Cost of Fast Fash,on Impac,,169033,2025-06-14,04:26:45.950000           1041         28  1.0
+clmentbisaillon/fake-and-real-news-datas,t                 fake-and-real-news-dataset,,,42975911,2024-04-19,13:02:33.387000          48877        213  1.0
+hbugrae/best-selling-steam-games-of-all-,ime               Best-Selling Steam Games o,All Tim,,158051,2025-06-12,11:24:15.477000           1835         42  1.0
+camnugent/california-housing-prices,California Housing Prices,,,409382,2017-11-24,03:14:59.677000         236028       1443  0.85294116
+briscdataset/brisc2025,🧠 BRISC 2025,,,264946992,2025-06-24,11:05:51.587000            367         14  0.75
+ryanholbrook/ts-course-data,TS Course Data,,,122560,2021-07-31,15:19:37.890000          25713         63  0.29411766
+olistbr/brazilian-ecommerce,Brazilian E-Commerce Publi,Dataset,by Olist,44717580,2021-10-01,19:08:27.970000         349945       3605  1.0
+masoudnickparvar/brain-tumor-mri-dataset,Brain Tumor MRI Da,aset,,1,5791278  20,1-09-24 12:43:45.510000         125613        900  0.875
+dmitryuarov/smiles-extra-data,SMILES Extra Data,,,,93240  20,5-06-30 12:56:33.767000            531         14  0.3529412
+abhishekdave9/digital-habits-vs-mental-h,alth-dataset              Screen Time Impact,on Menta,Health,,559014  20,5-06-13 11:42:28.647000           1331         32  0.9411765
+prasad22/healthcare-dataset,Healthcare Dataset,,,,3054550  20,4-05-08 12:15:16.477000          95166        699  1.0
+ellimaaac/smart-devices-from-99s-to-toda,Smart Devices from,99's to,oday,,5800010  20,5-06-21 10:14:00.153000            675         30  1.0
+dakshbhatnagar08/ai-tools-usage-among-gl,bal-high-school-students  AI Tools Usage Amo,g Global,High School,tudents,7380  20,5-06-14 05:22:08.087000           1281         32  1.0
+reverie4/e-commerce-fashion-product-urls,from-multiple-apps        E-Commerce Fashion,Product,RLs,,9515809  20,5-06-08 18:15:17.207000            492         20  0.875
+rockyt07/data-center-dataset,Global Data Center,Dataset,,,90481  20,5-07-10 09:48:44                    71          6  1.0
+akshaydattatraykhare/diabetes-dataset,Diabetes Dataset,,,,9128  20,2-10-06 08:55:25.697000         145892       1523  1.0
+abhishekjaiswal4896/mental-health-of-rem,te-workers                Mental Health Of R,mote Wor,ers,,3762  20,5-07-11 15:56:40.483000             68          4  1.0
+icebearogo/eye-detection-dataset,Eye Detection Data,et,,,8943517  20,5-05-23 10:03:47.140000            974         40  1.0
+jurijsruko/lettuce,Lettuce Growth Day,Analysi,,,63501  20,4-10-15 17:17:39.837000          12056         64  0.9411765
+rohitsahoo/sales-forecasting,Superstore Sales D,taset,,,491942  20,0-09-11 15:40:14.483000         116953        688  1.0
+raghavdharwal/vehicle-orientation-datase,-part-1                   Vehicle Orientatio,dataset,- Object det,ction    245,9865403  20,5-07-01 20:07:11.220000             21          8  1.0
+himanshunakrani/iris-dataset,Iris dataset,,,,1006  20,2-07-20 18:50:06.277000          60594        252  1.0
+ajayjaat/caf-order-transactions-dataset,Café Order Transac,ions Dat,set,,70544  20,5-06-20 08:15:55.690000           1254         26  0.7058824
+pratyushpuri/wearable-health-devices-per,ormance-analysis          Wearable Health De,ice Perf,rmance Data,025,63270  20,5-06-26 20:45:47.920000            636         27  0.9411765
+thanhlamdev/vehicle-at-ha-noi,Vehicle at Ha Noi,,,,1445264  20,5-07-04 09:44:04.930000             58          8  1.0
+unidpro/grocery-shelves,Grocery Shelves Da,aset,,,6611803  20,5-06-16 01:05:24.770000            246         11  0.9375
+stackoverflow/stackoverflow,Stack Overflow Dat,,,,0  20,9-03-20 23:18:28.723000              0        695  0.64705884
+darshanthakare/dog-breeds-image-dataset,Dog Breeds Image Dataset,,,789495,76  2025-06,07 08:06:40.033000            585         22  0.875
+emmarex/plantdisease,PlantVillage Dataset,,,689512,90  2018-10,30 01:16:23.440000          98070        840  0.5625
+vjchoudhary7/customer-segmentation-tutor,al-in-python        Mall Customer Segmentati,n Data,,1,83  2018-08,11 07:23:02.830000         240646       1827  0.88235295
+urvishahir/global-freelancers-raw-datase,Global Freelancers (Raw),Dataset,🧑‍💻,22,98  2025-07,05 21:48:23.950000             63          8  1.0
+kmader/skin-cancer-mnist-ham10000,Skin Cancer MNIST: HAM10,00,,5582914,11  2018-09,20 20:36:13.037000         194953       2069  0.7058824
+mathchi/diabetes-data-set,Diabetes Dataset,,,9,28  2020-08,05 21:27:01.953000         156403        843  1.0
+sarcasmos/diabetic-patient-sample,Diabetic_patient_sample,,,,74  2025-07,04 19:23:10.953000             58          9  0.88235295
+carrie1/ecommerce-data,E-Commerce Data,,,7548,86  2017-08,17 02:44:30.943000         220140       1895  0.7058824
+salader/dogs-vs-cats,dogs vs cats,,,1142891,94  2018-11,30 19:31:13.533000         148554        658  0.375
+ferdinandbaidoo/drivers-license-test-sco,es-data             Driver's License Test Sc,res Data,,16,33  2025-05,28 04:39:41.087000            957         21  0.7647059
+madaraweerasingha/cinnamon-quality-class,fication            Cinnamon Quality Classif,cation,,1,95  2025-06,16 16:20:29.193000            777         23  0.8235294
+aslawant/fps-video-games,FPS Video Games Dataset,,,18,28  2025-06,17 12:29:38.377000             71         24  1.0
+beatafaron/fmcg-daily-sales-data-to-2022,2024                FMCG Daily Sales Data (2,22-2024),,3872,54  2025-07,17 12:25:28.127000             98          1  1.0
+sadiqshah/bike-sales-in-europe,Bike Sales  in  Europe,,,1209,46  2020-09,23 09:10:33.160000         163016        356  0.7058824
+hideyukizushi/cmi25-imu-thmtof-tf-bilstm,gru-attentionlb-xx  CMI25 | IMU+THM/TOF |TF,iLSTM+GR,+Attention|L,.xx    13750,13  2025-06,12 07:24:57.220000            116          1  0.29411766
+mikhail1681/walmart-sales,Walmart Sales,,,125,07  2024-06,06 07:36:51.367000          52884        470  1.0
+kipshidze/shoplifting-video-dataset,Shoplifting Video Datase,,,761143,42  2025-06,13 20:28:27.277000            249          8  1.0
+adilshamim8/amazon-stock-price-history,AMAZON STOCK PRICE HISTO,Y,,160,96  2025-07,18 08:44:44.693000            305          4  1.0
+frtgnn/dog-breeds-by-personality-and-siz,Dog Breeds by Personalit,and Siz,,,89  2025-07,08 11:27:33.990000             89          3  1.0
+hideyukizushi/20250627-cmi-b-102-b-105,20250627---CMI-B-102-B-1,5,,59164,77  2025-06,26 14:35:55.293000             83          3  0.5625
+imdevskp/corona-virus-report,COVID-19 Dataset,,,1992,674  2020-0,-07 03:47:47.907000         384238       2625  1.0
+prajwaldongre/loan-application-and-trans,ction-fraud-detection  Loan Application & Tr,nsaction,Fraud Detec,ion      833,124  2025-0,-10 08:44:19.813000           1790         30  1.0
+eduardonacimientog/spanish-inclusive-lan,uage-phrases           Gender-Inclusive Span,sh Langu,ge Dataset,4,191  2025-0,-23 22:06:05.250000            125         12  1.0
+memoonaqaiser/mobile-phone-usage,Mobile phone usage,,,,298  2025-0,-27 02:15:54.280000            940         23  0.8235294
+oortdatahub/furniture-dataset-for-multi-,ngle-ai-training       Furniture Dataset for,Multi-An,le AI Traini,g     489343,763  2025-0,-08 22:40:43.747000             25         10  0.6875
+unidpro/hair-loss-male-norwood-scale,Hair Loss Male Norwoo,Scale,,827,426  2025-0,-25 11:29:40.700000            165          5  1.0
+fedesoriano/stroke-prediction-dataset,Stroke Prediction Dat,set,,6,007  2021-0,-26 19:29:28.887000         248668       3341  1.0
+novandraanugrah/xauusd-gold-price-histor,cal-data-2004present   XAUUSD Gold Price Tra,ker: 200,–Present,193,125  2025-0,-06 14:00:10.840000           1009         31  1.0
+rakeshkapilavai/engineering-student-jour,ey                     Engineering Student J,urney,,13,282  2025-0,-30 04:26:33.813000           1352         28  1.0
+brendanartley/openfwi-preprocessed-72x72,OpenFWI Preprocessed,2x72,,2211456,718  2025-0,-02 17:25:58.957000           4329         73  1.0
+chaitu20/ipl-dataset2008-2025,IPL Dataset(2008-2025,,,668,937  2025-0,-06 17:04:29.517000           1683         35  1.0
+zalando-research/fashionmnist,Fashion MNIST,,,7211,846  2017-1,-07 00:54:20.537000         245317       2998  0.85294116
+sahilislam007/sales-dataset,Sales Dataset,,,,016  2025-0,-27 07:28:19.667000           2677         41  1.0
+saurabh00007/iriscsv,Iris.csv,,,,307  2017-1,-09 07:34:35.167000         177028        322  0.4117647
+open-aq/openaq,OpenAQ,,,,0  2017-1,-01 18:08:44.753000              0        250  0.7058824
+aryansinha2003/click-bait-title-classifi,ation                  Click Bait Title Clas,ificatio,,70,752  2025-0,-25 11:59:29.793000             84          7  1.0
+ryanholbrook/car-or-truck,Car or Truck?,,,8147,411  2020-0,-17 21:53:46.347000           8682         85  0.375
+ankam6010/synthetic-hr-burnout-dataset,Synthetic HR Burnout,ataset,,2,115  2025-0,-03 17:15:35.657000            708         25  1.0
+uciml/red-wine-quality-cortez-et-al-2009,Red Wine Quality,,,2,176  2017-1,-27 23:41:08.883000         306528       3094  0.88235295
+ryanholbrook/cv-course-models,CV Course Models,,,50384,284  2020-0,-15 14:22:43.970000           5374         36  0.1875
+ryanholbrook/computer-vision-resources,Computer Vision Re,ources,,,13772835  2,20-07-23 10:40:17.447000           4275         15  0.1764706
+aslawant/alternative-metal-bands,Alternative Metal,ands,,,4471  2,25-06-09 12:00:40.530000            290         39  1.0
+yasserh/housing-prices-dataset,Housing Prices Dat,set,,,4740  2,22-01-12 18:18:46.587000         123907        410  1.0
+snehkansagara/car-dataset,Car Specifications,Dataset,,,5091  2,25-06-30 04:26:15.397000            697         25  0.7647059
+aesika/english-premier-league-player-sta,s-2425                    English Premier Le,gue - Pl,yer Stats -,4/25,33272  2,25-06-14 02:46:37.287000           1139         28  0.8235294
+shakhoyatshujon/reddit-break-up-stories-,ataset-20232025           Reddit Break-Up St,ries Dat,set (2023–20,5),847944  2,25-06-30 18:35:27.540000             61          7  1.0
+mczielinski/bitcoin-historical-data,Bitcoin Historical,Data,,,99885736  2,25-07-18 01:01:11.840000         205201       3757  1.0
+bahadirbor/bist-bank-stocks,BIST Banking Stock,,,,247548  2,25-07-08 11:19:45.887000              7          7  0.9411765
+youssefelebiary/air-quality-2024,Global Air Quality,(2024) -,6 Cities,,1842995  2,25-05-28 21:17:22.687000           2712         41  1.0
+kazanova/sentiment140,Sentiment140 datas,t with 1,6 million tw,ets,84855679  2,17-09-13 22:43:19.117000         227830       2185  0.88235295
+kemical/kickstarter-projects,Kickstarter Projec,s,,,38571084  2,18-02-08 09:02:30.193000          88225       1621  0.7941176
+marcelbiezunski/presidential-elections-p,land-2025-official-data   Presidential Elect,ons Pola,d 2025 (offi,ial data),3714851  2,25-06-24 12:59:13.327000             23          8  1.0
+madhulikakemwal/bestseller-books,Bestseller Books,,,,14857  2,25-06-08 13:33:22.667000            248          5  1.0
+milapgohil/play-tennis-dataset-weather-b,sed-classifier             🌞 Play Tennis Dat,set: Wea,her-based  C,assifier,21067  2,25-06-13 10:42:15.743000            121          3  1.0
+madhulikakemwal/flight-crashes-and-death,-1970-2025                Flight Crashes and,Deaths (,970-2025),,615  2,25-06-15 05:04:14.390000            172          4  1.0
+sonawanelalitsunil/2025-state-employee-p,y                         2025 State Employe,Pay,,,908072  2,25-07-08 07:50:43.367000             34          4  0.9411765
+makslypko/large-cars-dataset,Large Dataset of C,rs 🚗🏎,,,11473  2,25-06-06 08:10:37.170000           1316         30  1.0
+jessemostipak/hotel-booking-demand,Hotel booking dema,d,,,1308365  2,20-02-13 01:27:20.800000         176556       2565  1.0
+kambojankush/wordle-answer-search-trends,dataset-20212025          Wordle Answer Sear,h Trends,Dataset (202,–2025),30419  2,25-06-26 10:13:27.987000             94          7  1.0
+chaudharisanika/pet-adoption-records-wit,-animal-and-adopter-data  Pet Adoption Recor,s with A,imal & Adopt,r Data,6676  2,25-06-18 06:07:13.227000            794         30  1.0
+bahadirbor/bist-automotive-stocks,BIST Automotive S,ocks,,,233017  2,25-07-12 10:10:40.183000              6          8  1.0
+bahadirbor/turkish-cities-daily-weather-,ataset                     Turkey Cities Dai,y Weathe,Dataset,,460088  2,25-07-11 15:07:00.987000             20         14  0.9411765
+hideyukizushi/cmi-d-111,CMI-D-111,,,,37888978  2,25-07-08 16:09:46.293000             38          1  0.5625
+sufyan145/netflix-movies-and-shows-imdb-,cores                      Netflix Movies an,Shows I,db Scores,,715788  2,25-06-25 11:01:19.453000            755         22  1.0
+sanjidh090/resultpf,Bangladesh News A,ticles f,om Multiple,ewspapers,16169717  2,25-06-23 19:44:32.133000             63         13  1.0
+mohitbansal31s/marvel-characters,Marvel Characters,,,,3682857  2,25-06-07 07:57:11.497000            804         29  1.0
+arshid/iris-flower-dataset,Iris Flower Datas,t,,,1010  2,18-03-22 15:18:06.097000         212294        986  0.8235294
+vipoooool/new-plant-diseases-dataset,New Plant Disease,Dataset,,2,97709187  2,18-11-18 07:09:16.050000         142821       1427  0.75
+neelagiriaditya/ufc-datasets-1994-2025,UFC DATASETS [199,-2025],,,3489077  2,25-07-16 08:58:01.777000            357         18  1.0
+heptapod/titanic,Titanic,,,,11090  2,17-05-16 08:14:22.210000         117701       1648  0.7058824
+imakash3011/customer-personality-analysi,Customer Personal,ty Analy,is,,63450  2,21-08-22 18:15:05.273000         202197       2764  0.9705882
+chicago/chicago-taxi-trips-bq,Chicago Taxi Trip,,,,0  2,18-04-18 13:40:20.370000              0        269  0.7058824
+algovai/balance-diet-dataset,Calorie Predictio,s Datase,,,301158  2,25-06-15 04:21:32.620000            123          4  0.9411765
+anirudhsub/twizzlerdata,Popularity of Twi,zlers Da,aset,,996  2,25-06-13 22:01:17.120000            463         29  1.0
+nguyngiabol/colorful-fashion-dataset-for,object-detection           Colorful Fashion,ataset F,r Object Det,ction,09441424  2,22-02-18 11:55:22.513000           6948         18  0.5625
+dakshbhatnagar08/inside-teen-minds-globa,-mental-health-and-habits  Inside Teen Minds,Global,ental Health,& Habits,374106  2,25-06-14 08:12:23.497000           1175         29  1.0
+aryagavande/covid-19-tweets-vaccination-,"nd-deaths-data             COVID-19 Tweets,",accinati,"n, and Death",Data,357725  2,25-05-29 16:55:01.200000            222          4  0.9411765
+xixama/gallstone-dataset-uci,Gallstone Dataset,(UCI),,,81034  2,25-06-23 23:29:38.703000            119          3  1.0
+thedevastator/unlock-profits-with-e-comm,rce-sales-data             E-Commerce Sales,ataset,,,6634810  2,22-12-03 09:27:17.413000         105343        697  1.0
+hemajitpatel/superheros-abilities-datase,Superheros_abilit,es_datas,t,,3053  2,25-06-03 13:01:28.050000           1191         29  1.0
+sanjidh090/kuet-whispers,KUET_whispers_Dataset,,,790999  2,25-07-08 01,26:55.850000             14          3  1.0
+mohammadtalib786/retail-sales-dataset,Retail Sales Dataset,,,11509  2,23-08-22 18,33:09.170000          53873        321  1.0
+iammustafatz/diabetes-prediction-dataset,Diabetes prediction dataset,,,751272  2,23-04-08 06,11:45.837000          98181        735  1.0
+sahilislam007/letterbox-movie-classifica,ion-dataset     Letterbox Movie Classificati,n Datase,,1938742  2,25-05-29 05,21:40.520000           1283         26  1.0
+ellimaaac/gaming-mouse-specs,Gaming Mouse Specs,,,26764  2,25-07-08 18,43:49.060000            634         22  1.0
+umerhaddii/netflix-stock-data-2025,NETFLIX Stock Data 2025,,,136315  2,25-06-13 04,51:25.643000           1301         46  1.0
+adilshamim8/worldwide-covid-19-data-from,who             Worldwide COVID-19 Data from,WHO (202,Edition),3940745  2,25-07-14 13,36:54.707000           1339         28  1.0
+kushalmanage/physics-teacher-jobs-linked,n               Physics teacher jobs Linkedi,,,1001713  2,25-06-17 08,14:28.847000            333         23  1.0
+divyaraj2006/netflix-tv-shows-and-movies,NETFLIX TV SHOWS AND MOVIES,,,34642  2,25-07-04 01,47:30.347000             68          1  1.0
+usgs/earthquake-database,"Significant Earthquakes, 196",-2016,,604367  2,17-01-26 20,14:10.770000          48885        598  0.85294116
+unidpro/deepfake-videos-dataset,DeepFake Videos Dataset,,,67730706  2,25-06-16 00,58:16.803000            145          5  1.0
+mdmofazzalhossain789/msrdailyactivity3d-,gb-videos-only  MSRDailyActivity3D (RGB Vide,s only),,395266216  2,25-07-01 08,47:46.953000             11          1  1.0
+abhishekjaiswal4896/store-sales-dataset,Store sales dataset,,,42940  2,25-07-05 08,40:49.373000             54          2  1.0
+zayndeveloper/mars-curiosity-dataset,Mars Curiosity Image Dataset,,2,416265191  2,25-07-07 16,37:23.273000             11         12  0.75
+navoneel/brain-mri-images-for-brain-tumo,-detection      Brain MRI Images for Brain T,mor Dete,tion,15828590  2,19-04-14 15,15:54.730000         136616       1475  0.5
+grassknoted/asl-alphabet,ASL Alphabet,,,100887034  2,18-04-22 19,31:36.210000          93339       1114  0.875
+snap/amazon-fine-food-reviews,Amazon Fine Food Reviews,,,253873708  2,17-05-01 18,51:31.490000         228214       2358  0.7941176
+egortrushin/open-wfi-test,openfwi_float16_test,,3,298647973  2,25-04-25 23,23:58.700000            823         11  0.1875
+shalmamuji/spam-email-classification,SPAM EMAIL CLASSIFICATION,,,125413  2,25-07-06 16,30:05.140000             67          4  1.0
+adilshamim8/license-plate-recognition,License Plate Rec,gnition,ataset,,526135779,2025-06-04 04:43:40.380000            484         28  1.0
+nih-chest-xrays/data,NIH Chest X-rays,,,,5096150231,2018-02-21 20:52:23.880000         125727       1393  0.7352941
+tongpython/cat-and-dog,Cat and Dog,,,,228487605,2018-04-26 10:56:50.843000         161628       1401  0.75
+myso1987/cmi3-models-p,CMI3 models p,,,,13955142,2025-06-30 10:09:10.917000            188          3  0.29411766
+alexteboul/diabetes-health-indicators-da,aset                       Diabetes Health I,dicators,Dataset,,6324278,2021-11-08 16:48:54.510000         110469        764  1.0
+rohanrao/formula-1-world-championship-19,0-2020                     Formula 1 World C,ampionsh,p (1950 - 20,4),6585538,2025-01-29 04:43:07.267000         127373       2053  1.0
+rounakbanik/the-movies-dataset,The Movies Datase,,,,238862293,2017-11-10 02:40:38.583000         417085       3769  0.8235294
+adilshamim8/rock-paper-scissors,Rock Paper Scisso,s SXSW:,and Gesture,etection,210940029,2025-05-28 04:09:22.500000           2274         85  1.0
+dakshbhatnagar08/global-high-school-stud,nt-lifestyle-and-wellness  Global High Schoo,Student,Lifestyle &,ellness,6580,2025-06-13 03:29:43.340000            868         25  1.0
+verracodeguacas/huggingfacedebertav3vari,nts                        huggingface-deber,a-v3-var,ants,,1818652754,2022-11-30 03:24:54.173000           1491         69  0.9375
+youssefelebiary/household-trash-recyclin,-dataset                   Household Trash R,cycling,ataset (YOLO,Format),2163064274,2025-07-15 10:44:24.613000             47          4  1.0
+ka66ledata/project-management-risk-raw,Project managemen,Risk Ra,,,268854,2025-05-24 15:39:18.287000            549         11  1.0
+semihyagli/stl10-labeled-image-recogniti,n-dataset                  STL10-Labeled Ima,e Recogn,tion Dataset,,4938540,2025-07-10 14:52:37.657000             52          6  0.8125
+muhammadwaqas023/predictive-maintenance-,il-and-gas-pipeline-data   Predictive mainte,ance oil,and gas pipe,ine data,19189,2025-06-04 10:48:53.007000            301          6  1.0
+jocelyndumlao/cair-cvd-2025-cardiovascul,r-risk-from-bangladesh     CAIR-CVD-2025: Ca,diovascu,ar Risk from,Bangladesh,53768,2025-06-17 07:12:05.430000            141          7  1.0
+arashnic/fitbit,FitBit Fitness Tr,cker Dat,,,45396148,2024-03-02 20:47:05.910000         178334       2541  0.9411765
+redwankarimsony/heart-disease-data,UCI Heart Disease,Data,,,12672,2020-09-23 03:34:11.207000          56692        262  0.9411765
+abhishek14398/salary-dataset-simple-line,r-regression               Salary Dataset -,imple li,ear regressi,n,457,2023-01-10 03:55:40.137000          68597        400  1.0
+atharvasoundankar/taco-sales-dataset-202,2025                       🌮 Taco Sales Data,et (2024,2025),,28028,2025-05-25 06:39:38.920000           2216         36  1.0
+mohamedramadan2040/education-in-danger-i,cident-data-2020-to2025  Education Under Att,ck 2020,o 2025,417658,2025-06-22,6:32:35.353000            799         31  0.7647059
+urvishahir/ferrari-dataset,Ferrari Images Data,et (2025,🏎️,299947316,2025-07-06,0:30:08.043000            181          8  1.0
+uwrfkaggler/ravdess-emotional-speech-aud,o                        RAVDESS Emotional s,eech aud,o,450102890,2019-01-19,8:28:31.433000          80337        639  0.875
+younusmohamed/bank-telemarketing,Bank Telemarketing,,,3248401,2025-06-01,8:28:18.817000            523         33  1.0
+naivedatamodel/temperature-dataset-india,Temperature dataset,India,,1702,2025-07-04,8:34:20.540000             44          4  1.0
+siddharth0935/video-game-sales,Video Game Sales,,,1991731,2025-06-04,4:26:30.680000           2490         40  1.0
+moltean/fruits,Fruits-360 dataset,,,3725667254,2025-06-07,6:15:42.817000         193187       3206  0.875
+oddrationale/mnist-in-csv,MNIST in CSV,,,15970596,2018-05-19,2:24:20.883000         178291        872  0.8235294
+adityajn105/flickr8k,Flickr 8k Dataset,,,1112971163,2020-04-27,7:27:19.103000         142074        504  0.75
+ihelon/coffee-sales,Coffee Sales,,,43929,2025-03-25,0:20:05.300000          39325        405  1.0
+fivethirtyeight/fivethirtyeight-comic-ch,racters-dataset          FiveThirtyEight Com,c Charac,ers Dataset,611306,2019-04-26,5:01:41.097000          34786       4890  0.8235294
+jakupymeraj/imc-2025-model-weights,imc-model-weights,,,216724700,2025-05-23,7:27:43.940000              8          9  1.0
+abiyyurasyiq/mobile-legends-google-play-,eviews                   Mobile Legends Goog,e Play R,views,3708427,2025-06-11,3:34:25.880000            108          8  1.0
+harshvardhan21/dna-sequence-prediction,DNA Sequence Predic,ion,,5010968,2025-07-08,7:06:43.147000             47          5  0.9411765
+shree1992/housedata,House price predict,on,,442471,2018-08-26,7:56:22.650000         105962        739  0.64705884
+kaggle/meta-kaggle,Meta Kaggle,,,9726508804,2025-07-17,5:29:39.027000          30524       1077  1.0
+yasserhessein/gallstone,Gallstone,,,74938,2025-07-06,6:13:31.523000             11          9  0.7647059
+wenruliu/adult-income-dataset,Adult income datase,,,667679,2016-10-06,6:11:40.940000          76001        309  0.5882353
+smithsonian/volcanic-eruptions,Volcanic Eruptions,n the Ho,ocene Period,41317,2017-01-23,3:00:21.703000           9076        148  0.8235294
+nehalbirla/vehicle-dataset-from-cardekho,Vehicle dataset,,,299060,2023-01-14,9:35:33.217000         193493       1125  1.0
+samanfatima7/2020-2025-apple-stock-datas,t                        2020-2025 Apple Sto,k Datase,,,52546  2,25-06-03 11:57:03.600000           1547         34  0.9411765
+grouplens/movielens-20m-dataset,MovieLens 20M Datas,t,,,04953792  2,18-08-15 23:09:34.430000          81634        664  0.7058824
+wigglerofgems/open-city-delhi-wards-shap,-dataset-kml             Open City – Delhi W,rds Shap,Dataset (.k,l),1933906  2,25-06-28 21:55:06.373000             37          3  1.0
+theworldbank/world-bank-intl-education,World Bank: Educati,n Data,,,0  2,19-03-20 23:17:41.593000              0        479  0.64705884
+kushalmanage/latest-world-news-2025,Latest World News 2,25,,,26972  2,25-06-19 18:07:40.107000            492         29  1.0
+anuranduttachowdhury/covid-19-dataset,COVID-19 Global Pol,cy Impac,Analysis v1,0,76622927  2,25-05-30 21:18:00.707000            186          2  0.9411765
+karagwaanntreasure/plant-disease-detecti,n                        Plant Disease Detec,ion,,,59927257  2,25-07-12 10:31:21.923000             19          3  0.875
+atharvasoundankar/ben-10-alien-universe-,ealistic-battle-dataset  Ben 10 Alien Univer,e —  Rea,istic Battle,Dataset,6801  2,25-05-27 09:04:12.257000           1938         75  1.0
+egortrushin/open-wfi-1,openfwi_float16_1,,,157,78231047  2,25-04-25 20:50:18.783000           5024         27  0.1875
+altruistdelhite04/loan-prediction-proble,-dataset                 Loan Prediction Pro,lem Data,et,,12888  2,19-03-12 12:43:33.713000          72837        514  0.1764706
+rakeshkapilavai/free-fire-weapons-datase,Free Fire Weapons D,taset,,,3099  2,25-05-23 12:13:52.940000            437         24  1.0
+vikrishnan/boston-house-prices,Boston House Prices,,,,13146  2,17-08-03 17:06:12.697000         174282        779  0.8235294
+yasserh/wine-quality-dataset,Wine Quality Datase,,,,21984  2,22-01-15 19:15:11.737000          95766        745  1.0
+abhinavrongala/netflix-datasets-evaluati,n                        Netflix Datasets Ev,luation,,,3905582  2,25-05-25 00:03:29.143000           2357         32  0.9411765
+kwullum/fatal-police-shootings-in-the-us,Fatal Police Shooti,gs in th,US,,1113996  2,17-09-22 19:18:21.450000          33497        440  0.85294116
+harlfoxem/housesalesprediction,House Sales in King,"County,",SA,,798275  2,16-08-25 15:52:49.797000         222672       2246  0.7058824
+patrickb1912/ipl-complete-dataset-200820,0                        IPL Complete Datase,(2008-2,24),,1910090  2,24-06-08 07:13:12.087000         121120        965  1.0
+alexisbcook/pakistan-intellectual-capita,Pakistan Intellectu,l Capita,,,48975  2,20-08-06 17:19:27.377000           7166         38  0.47058824
+egortrushin/open-wfi-2,openfwi_float16_2,,,109,98205356  2,25-04-25 23:05:08.193000           3758         16  0.1875
+saurabh00007/diabetescsv,diabetes.csv,,,,9128  2,17-11-13 11:42:48.713000          88817        277  0.4117647
+uciml/mushroom-classification,Mushroom Classification,,,3505,2016-12-0,23:08:00.073000         162765       2531  0.85294116
+usdot/nhtsa-traffic-fatalities,US Traffic Fatality Rec,rds,,,2019-03-2,23:21:02.797000              0        302  0.7058824
+asdasdasasdas/garbage-classification,Garbage Classification,,,8596966,2018-11-2,05:09:23.977000          53483        572  0.8125
+adilshamim8/safety-vests-detection-datas,t                    Safety Vests Detection,ataset,,42527376,2025-07-0,09:46:07.877000             36          2  0.9375
+imaadmahmood/ethereum-5-years-dataset,Ethereum 5 years DataSe,,,7209,2025-07-0,03:57:37.423000             58          6  0.7058824
+aslawant/city-weather-dataset,City Weather Dataset,,,52,2025-06-0,12:48:27.850000            587         29  1.0
+awsaf49/brats20-dataset-training-validat,on                   BraTS2020 Dataset (Trai,ing + Va,idation),446857094,2020-07-0,09:07:32.533000          63621        343  0.7647059
+ckshetty/candidate-job-role-dataset,candidate_job_role_data,et,,553,2025-06-2,12:34:55.073000             96          1  1.0
+cluesec/app-store-music-app-reviews,App Store Music App Rev,ews,,52416,2025-05-2,10:30:42.020000            569         24  1.0
+yasserh/breast-cancer-dataset,Breast Cancer Dataset,,,4979,2021-12-2,19:07:20.320000          89171        572  1.0
+naivedatamodel/soil-dataset,Soil DataSet,,,4456660,2025-06-2,09:08:33.430000            144         11  0.75
+jessicali9530/celeba-dataset,CelebFaces Attributes (,elebA) D,taset,142775079,2018-06-0,20:08:48.043000         190288       1743  0.7647059
+ahmedmohamed2003/cafe-sales-dirty-data-f,r-cleaning-training  Cafe Sales - Dirty Data,for Clea,ing Training,11351,2025-01-1,19:49:39.130000          14501        162  1.0
+karahanos/crude-oil-news-data,Crude Oil News Data,,,3922,2025-06-3,10:46:37.777000             73         12  0.9411765
+ziya07/volleyball-training-feedback-data,et                   Volleyball Training Fee,back Dat,set,7255,2025-07-0,09:47:16.937000             23          6  0.88235295
+puneet6060/intel-image-classification,Intel Image Classificat,on,,36315221,2019-01-3,09:22:58.647000         148463       1573  0.75
+crowdflower/twitter-airline-sentiment,Twitter US Airline Sent,ment,,267860,2019-10-1,00:04:05.163000         125254       1119  0.8235294
+pratyushpuri/sports-betting-predictive-a,alysis-dataset       Sports Betting Predicti,e Analys,s Dataset 20,5       3964,2025-07-1,10:24:34.763000             16          5  0.9411765
+flynn28/2025-premier-league-stats-matche,-salaries            2025 Premier League: St,"ts, Matc","es, Salaries",5922,2025-05-2,01:25:53.030000           1693         33  1.0
+syedanwarafridi/vehicle-sales-data,Vehicle Sales Data,,,19753181,2024-02-21,0:16:17.790000          65770        643  1.0
+rohanrao/air-quality-data-in-india,Air Quality Data in I,dia (201,- 2020),76469579,2020-07-28,2:33:10.347000          67964        591  1.0
+snmahsa/disease-symptoms-and-treatments-,ataset                 Disease Symptoms and,reatment,Dataset,33820,2025-05-31,8:24:15.913000            671         28  0.9411765
+uom190346a/sleep-health-and-lifestyle-da,aset                   Sleep Health and Life,tyle Dat,set,2604,2023-09-18,7:27:03.117000         113608       1409  1.0
+chaudharisanika/ipl-match-dataset,IPL Match Dataset,,,16591,2025-06-13,6:17:23.527000             86          7  1.0
+unsdsn/world-happiness,World Happiness Repor,,,37692,2019-11-27,4:41:47.297000         357015       4368  0.85294116
+bigquery/bitcoin-blockchain,Bitcoin Blockchain Hi,torical,ata,0,2019-02-12,0:27:44.260000              0        747  0.7352941
+shaunthesheep/microsoft-catsvsdogs-datas,t                      Cats-vs-Dogs,,,825979578,2020-03-12,5:34:30.730000          76751        751  0.875
+shubhambathwal/flight-price-prediction,Flight Price Predicti,n,,4360218,2022-02-25,7:58:19.347000          57998        561  1.0
+harshitshankhdhar/imdb-dataset-of-top-10,0-movies-and-tv-shows  IMDB Movies Dataset,,,179262,2021-02-01,7:35:48.597000          93443        655  1.0
+openai/browsecomp-a-benchmark-for-browsi,g-agents               BrowseComp: A Benchma,k for Br,wsing Agents,680960,2025-06-11,2:01:02.797000            254        273  0.47058824
+sobhanmoosavi/us-accidents,US Accidents (2016 -,023),,684855912,2023-05-28,0:54:47.207000         151220       2492  1.0
+dansbecker/hospital-readmissions,Medical Data and Hosp,tal Read,issions,534254,2018-09-13,7:46:50.960000           6212         65  0.1764706
+tawsifurrahman/covid19-radiography-datab,se                     COVID-19 Radiography,atabase,,816029038,2022-03-19,3:38:42.940000         111633       1111  1.0
+wordsforthewise/lending-club,All Lending Club loan,data,,1356507910,2019-04-10,8:03:34.347000          76400        801  0.75
+mathan/fifa-2018-match-statistics,Predict FIFA 2018 Man,of the M,tch,3952,2018-07-18,8:29:22.397000          17773        327  1.0
+dansbecker/new-york-city-taxi-fare-predi,tion                   New York City Taxi Fa,e Predic,ion,1569790,2018-09-13,0:32:07.773000           4776         35  0.1764706
+iamsouravbanerjee/world-population-datas,t                      World Population Data,et,,16061,2022-10-20,7:51:07.350000          72186        716  1.0
+gifreysulay/pavement-dataset,Pavement Dataset,,,20890601,2025-05-24,1:59:31.850000           2306         26  1.0
+lainguyn123/student-performance-factors,Student Performance F,ctors,,96178,2024-11-26,4:13:57.537000          76801       1024  1.0
+ankit07chy/laptopuncleaneddataset,Laptop Unclean,d Datase,,,9951,2025-06-20 19:59:17.050000             91          6  1.0
+altavish/boston-housing-dataset,Boston housing,dataset,,,1198,2017-10-27 12:17:34.970000          69092        215  0.5882353
+snehaanbhawal/resume-dataset,Resume Dataset,,,,6552967,2021-08-08 10:52:47.397000          43104        271  1.0
+awsaf49/coco-2017-dataset,COCO 2017 Data,et,,,2688436216,2020-09-04 05:05:02.617000          55534        438  0.6875
+jayaantanaath/student-habits-vs-academic,performance                   Student Habits,vs Acade,ic Performan,e,1951,2025-04-12 10:49:08.663000          48434        776  1.0
+shinchen93/drw-submission-order-reset,DRW_submission,order_re,et,,811777,2025-07-08 04:19:21.183000             93          0  0.29411766
+tanishqjoshi16/ipl-2025-data-set,IPL 2025 data,et,,,11712,2025-06-22 06:22:53.033000            565         22  0.7058824
+vinothkannaece/5g-network-data,5G Network dat,,,,189093,2025-05-28 07:42:22.767000            533          5  1.0
+sakshigoyal7/credit-card-customers,Credit Card cu,tomers,,,38777,2020-11-19 07:38:44.677000         126055       2371  1.0
+mkechinov/ecommerce-behavior-data-from-m,lti-category-store            eCommerce beha,ior data,from multi c,tegory store,460672090,2019-12-09 20:43:39.273000          51847        740  1.0
+jocelyndumlao/global-student-perceptions,of-chatgpt                    Global  Studen,Percept,ons of ChatG,T,915210,2025-06-10 01:13:09.353000            526         29  0.88235295
+zenith04/indian-companies-stock-data-140,-companies                    Indian Compani,s Stock,ata (1400+ C,mpanies),112690943,2025-06-23 11:48:11.360000            116          2  0.9411765
+digantabhattacharya/usa-house-price-inde,-and-macroeconomic-variables  USA House Pric,Index &,MacroEconomi,Variables,3109,2025-06-19 00:31:02.167000            335         17  1.0
+albab12/dhaka-daily-air-quality-and-weat,er-dataset                    Dhaka Daily Ai,Quality,and Weather,ataset,42,2025-07-15 06:48:10.100000             17          4  0.9411765
+jainaru/electric-car-sales-2010-2024,Electric car s,les (201,-2024),,2630,2025-05-08 07:47:58.893000           7331         67  1.0
+dgomonov/new-york-city-airbnb-open-data,New York City,irbnb Op,n Data,,256269,2019-08-12 16:24:45.737000         219168       3034  1.0
+madhulikakemwal/crime-against-scheduled-,aste-in-india                 Crime Against,cheduled,Caste in Ind,a,689,2025-06-12 05:19:18.917000            142          8  1.0
+jp797498e/twitter-entity-sentiment-analy,is                            Twitter Sentim,nt Analy,is,,209016,2021-08-09 02:52:11.020000          82252        422  1.0
+jangedoo/utkface-new,UTKFace,,,,34734254,2018-08-16 19:05:30.363000          63586        364  0.6875
+nikhil7280/student-performance-multiple-,inear-regression              Student Perfor,ance (Mu,tiple Linear,Regression),4970,2023-06-29 10:38:16.233000          56464        291  1.0
+alexisbcook/geospatial-learn-course-data,Geospatial Learn Course,Data,,24453,909  2019-0,-20 19:18:48.760000          22595        135  0.1764706
+michaelhakim/wellness-pharmacy-sales-ana,ysis                 Wellness Pharmacy Sales,Analysis,,1334,987  2025-0,-27 12:20:04.297000             92          1  0.9411765
+abhijithkumble/my-anime-list-anime-data,my anime list anime dat,,,239,793  2025-0,-16 10:03:19.923000            113          5  0.9411765
+robikscube/hourly-energy-consumption,Hourly Energy Consumpti,n,,1197,477  2018-0,-30 14:17:03.317000          95839       1068  1.0
+sumedh1507/teen-phone-addiction,Teen Smartphone Usage a,d Addict,on Impact Da,aset      12,372  2025-0,-11 11:10:20.700000            177          5  0.8235294
+doublevvvvv/risk-behavior-features-analy,is                   Risk Behavior Features,nalysis,,,705  2025-0,-16 19:27:09.130000            775         27  0.88235295
+edwardgaibor/pfaf-medical-plants-use-dat,set                  PFAF Medicinal Plants u,e Datase,,1454,662  2025-0,-28 22:37:15.853000            363         13  1.0
+atharvaingle/crop-recommendation-dataset,Crop Recommendation Dat,set,,6,234  2020-1,-19 05:01:46.843000          64243        502  0.7058824
+sameerwagle/sentimentanalysisnepalidatas,t                    Sentiment Analysis Nepa,i Datase,by SamirWag,e     254509,027  2025-0,-07 06:08:56.807000              8          3  0.9411765
+eswaranmuthu/u-s-economic-vital-signs-25,years-of-macro-data  U.S. Economic Vital Sig,s: 25 Ye,rs of Macro,ata,856  2025-0,-28 22:21:32.343000            140          5  1.0
+jsphyg/weather-dataset-rattle-package,Rain in Australia,,,402,790  2020-1,-11 10:26:12.167000         157022       1823  1.0
+gauravduttakiit/resume-dataset,Resume Dataset,,,39,839  2021-0,-23 23:15:35.347000          39958        237  0.7058824
+tfisthis/influencer-marketing-roi-datase,Influencer Marketing RO,Dataset,,330,135  2025-0,-09 12:48:40.313000            145          4  0.9411765
+jaxa623/extrovert-vs-introvert-behavior-,ata-backup           Extrovert vs Introvert,ehavior,ata (Backup),3,277  2025-0,-01 06:22:34.063000            183         12  0.29411766
+rjmanoj/credit-card-customer-churn-predi,tion                 Credit Card Customer Ch,rn Predi,tion,26,794  2020-0,-12 07:28:50.093000          10839         75  0.29411766
+lava18/google-play-store-apps,Google Play Store Apps,,,203,893  2019-0,-03 13:55:47.603000         276786       5006  0.8235294
+sudalairajkumar/indian-startup-funding,Indian Startup Funding,,,12,812  2020-0,-11 16:18:55.280000          86640        975  1.0
+alessiocorrado99/animals10,Animals-10,,,61408,302  2019-1,-12 20:46:33.797000          92643       1068  1.0
+kmader/food41,Food Images (Food-101),,,569380,106  2018-0,-15 07:40:37.080000          49789        685  0.8125
+heesoo37/120-years-of-olympic-history-at,letes-and-results    120 years of Olympic hi,tory: at,letes and re,ults     569,772  2018-0,-15 06:10:41.637000         210245       2325  0.8235294
+lorenzoarcioni/road-damage-dataset-potho,es-cracks-and-manholes    Road Damage Datase,: Pothol,"s, Cracks an",Manholes,93459929  2,25-07-03 17:15:52.280000            128          1  0.8125
+osmi/mental-health-in-tech-survey,Mental Health in T,ch Surve,,,49930  2,16-11-03 17:28:47.630000          86867       1177  0.88235295
+abdallahalidev/plantvillage-dataset,PlantVillage Datas,t,,4,71949460  2,19-09-01 11:52:26.883000          70318        704  0.875
+tawfikelmetwally/employee-dataset,Employee dataset,,,,18961  2,23-09-06 18:15:55.640000          56529        433  0.9411765
+ealaxi/paysim1,Synthetic Financia,Dataset,For Fraud D,tection,86385561  2,17-04-03 08:40:34.403000         116940       1487  0.88235295
+agileteam/bigdatacertificationkr,Big Data Certifica,ion KR,,,183393  2,25-06-19 01:49:44.780000          24845       1365  0.7058824
+divyanshnegi2735/india-crime-data-wrt-po,ulation-statewise2001-13  India Crime Data w,t Popula,ion StateWis,(2001-13),148709  2,25-07-12 09:38:02.537000             15          3  0.9411765
+janiobachmann/bank-marketing-dataset,Bank Marketing Dat,set,,,145725  2,17-11-12 19:20:01.137000          80398        551  0.8235294
+orkunaktas/all-football-players-stats-in,top-5-leagues-2425        All Football Playe,s Stats,n Top 5 Leag,es 24/25,429032  2,25-06-02 09:44:24.760000            777         30  0.88235295
+adilshamim8/safety-helmet-detection-for-,onstruction-sites         Safety Helmet Dete,tion for,Construction,Sites      1,19097323  2,25-07-05 10:37:27.317000             27          2  0.9375
+hellbuoy/car-price-prediction,Car Price Predicti,n Multip,e Linear Reg,ession,18523  2,19-10-15 16:45:27.080000          88285        644  0.7058824
+Cornell-University/arxiv,arXiv Dataset,,,1,74908947  2,25-07-12 23:50:55.510000          69175       1505  0.875
+youssefelebiary/1985-auto-imports-datase,-uci-ml-repository        1985 Auto Imports,ataset (,CI ML Reposi,ory),4941  2,25-06-07 22:58:02.290000             80          6  1.0
+meowmeowmeowmeowmeow/gtsrb-german-traffi,-sign                     GTSRB - German Tra,fic Sign,Recognition,enchmark,41568792  2,18-11-25 18:12:34.427000         149322       1227  0.8235294
+shivamb/amazon-prime-movies-and-tv-shows,Amazon Prime Movie,and TV,hows,,1690539  2,21-10-12 14:55:12.200000          61883        333  1.0
+kumarajarshi/life-expectancy-who,Life Expectancy (W,O),,,121472  2,18-02-10 16:55:10.820000         169051       1306  0.8235294
+hugomathien/soccer,European Soccer Da,abase,,,34297253  2,16-10-23 22:31:38.527000         250758       4762  0.7058824
+luisatutau/digital-sales-and-customer-da,a                         Digital Sales & Cu,tomer Da,a,,62876  2,25-07-08 18:52:46.227000            156          1  0.8235294
+kurisew/imu-only-datas,imu_only_datas,,,,27230902  2,25-07-03 13:23:19.300000             76          0  0.23529412
+austinreese/craigslist-carstrucks-data,Used Cars Dataset,,,,75237598  2,21-05-06 17:14:08.443000         101797       1544  1.0
+vaibhavagrawal30/u-s-consumer-product-sa,ety-recalls          U.S. Consumer Product S,fety Rec,lls,7998,6  2025-06-,6 18:27:11.273000             57          4  0.9411765
+cherngs/heart-disease-cleveland-uci,Heart Disease Cleveland,UCI,,34,5  2020-03-,9 12:06:31.783000          29063        187  0.88235295
+sudalairajkumar/covid19-in-india,COVID-19 in India,,,7760,2  2021-08-,1 04:14:10.130000         291993       2074  0.9117647
+shreyasdasari7/top-100-saas-companiessta,tups                 Top 100 SaaS Companies/,tartups,025,50,0  2025-05-,9 00:22:47.850000           1452         37  1.0
+hassan06/nslkdd,NSL-KDD,,,145296,0  2019-04-,5 06:13:16.707000          62705        309  0.625
+martj42/international-football-results-f,om-1872-to-2017      International football,esults f,om 1872 to 2,25     12086,2  2025-07-,7 15:24:47.490000         118631       2356  1.0
+kartik2112/fraud-detection,Credit Card Transaction,Fraud D,tection Data,et   2117666,2  2020-08-,5 15:20:55.217000          83241        485  0.85294116
+gauravduttakiit/redbus-data-decode-hacka,hon-2025             redBus Data Decode Hack,thon 202,,169130,0  2025-06-,4 16:48:15.637000            107          9  0.7058824
+abcsds/pokemon,Pokemon with stats,,,152,4  2016-08-,9 06:01:43.490000         142919       2659  0.88235295
+sahilislam007/shopping-trends-and-custom,r-behaviour-dataset  Shopping Trends And Cus,omer Beh,viour Datase,798,1  2025-05-,5 13:51:18.823000           2613         34  0.9411765
+starbucks/store-locations,Starbucks Locations Wor,dwide,,11491,4  2017-02-,3 23:05:16.630000          87321        594  0.5882353
+alxmamaev/flowers-recognition,Flowers Recognition,,,2356631,8  2021-07-,6 16:00:32.503000         136089       1982  0.625
+sulianova/cardiovascular-disease-dataset,Cardiovascular Disease,ataset,,7600,6  2019-01-,0 01:28:23.973000         116982       1303  0.64705884
+aiwithcagri/mobil-bankaclk-sesli-komut-v,ri-seti-trke         Mobil Bankacılık Sesli,omut Ver,Seti Türkçe,90,6  2025-06-,8 16:42:38.430000             41         25  0.7058824
+mahdimashayekhi/social-media-vs-producti,ity                  Social Media vs Product,vity,,23743,2  2025-05-,5 20:01:03.167000           4895         58  1.0
+rkiattisak/student-performance-in-mathem,tics                 Student performance pre,iction,,88,1  2023-03-,2 04:32:56.647000          27262        351  1.0
+novandraanugrah/xauusd-gold-price-histor,cal-data-2004-2024   XAU/USD Gold Price Hist,rical Da,a (2004-2025,1004943,4  2025-07-,9 12:24:41.173000          11848        139  1.0
+zhaoyingzhu/heartcsv,Heart.csv,,,46,8  2017-11-,0 08:28:59.443000          35377        103  0.1764706
+andrewmvd/heart-failure-clinical-data,Heart Failure Predictio,,,40,7  2020-06-,0 01:03:20.940000         166080       2407  1.0
+orvile/health-and-sleep-relation-2024,Health and Sleep relati,n,,26,6  2025-05-,8 12:35:19.687000           6889         98  1.0
+zunorain/tomato-dataset-v2,tomato_dataset_v2,,,4819,0731  2025-,6-05 15:51:26.330000            415         10  0.8125
+reignrichard/coffee-store-sales,Coffee Store Sales,,,4,6152  2025-,7-11 12:23:43.847000             32          1  0.9411765
+andrewmvd/face-mask-detection,Face Mask Detection,,,4169,8083  2020-,5-22 07:18:42.220000          98559       1875  0.875
+wjburns/common-password-list-rockyoutxt,Common Password List (,rockyou.,xt ),532,2120  2019-,1-13 02:32:14.320000         112800        714  0.75
+mohansacharya/graduate-admissions,Graduate Admission 2,,,,9867  2018-,2-28 10:07:14.910000         118310       1902  0.7058824
+shuvokumarbasak4004/emojis-list-unicode-,mage-dataset          Emojis List Unicode Im,ge Datas,t,592,4353  2025-,6-17 18:37:01.383000             39          8  1.0
+mennaahmed23/baby-cry-dataset,Baby Cry Sense Dataset,,,764,0904  2025-,6-08 21:28:25.533000             96          6  0.875
+arun4545/all-in-one-sentiment-dataset,All-in-One Sentiment D,taset,,170,1145  2025-,6-30 10:13:54.757000             41          1  1.0
+richolson/rdkit-install-whl,RDKit install whl,,,503,7223  2025-,6-17 05:32:40.077000            168          9  0.375
+novandraanugrah/ethereum-price-data-bina,ce-api-2017now        Ethereum Price Data Bi,ance API,(2017–Now),181,1143  2025-,7-18 00:52:27.847000            366          1  0.8235294
+icebearogo/german-traffic-sign-detection,gtsdb-dataset         German Traffic Sign De,ection (,TSDB )Datase,2457,2448  2025-,5-25 17:06:05.117000            140         11  1.0
+halfbloodhamed/iranian-snack-and-chips-d,tection-yolo-format   Iranian Snack & Chips,etection,(YOLO Format,1696,2330  2025-,6-05 07:53:57.177000             43         10  1.0
+khushikyad001/covid-19-reinfection-and-h,alth-dataset          COVID-19 Reinfection a,d Health,Dataset,,5812  2025-,5-23 19:48:46.423000           2311         30  1.0
+harshitsheoran/simple-further-finetuned-,artley-open-models    simple_further_finetun,d_bartle,_open_models,3999,8146  2025-,5-22 14:45:14.220000            437          9  0.3125
+sahilislam007/online-retail-customer-chu,n-prediction-dataset  Online Retail Customer,Churn Pr,diction Data,et         4,0917  2025-,6-21 07:34:19.430000             57          1  1.0
+amerhu/ant-activity-and-pest-predation-i,-soybean-systems      Ant Activity and Pest,redation,in Soybean S,stems,6231  2025-,6-16 03:45:14.060000             15         26  0.47058824
+patricklford/mass-disasters-in-vietnam-f,om-1900-to-2024       Mass disasters in Viet,am from,953 to 2024,,4270  2025-,6-12 09:56:17.603000             68          3  1.0
+iarunava/cell-images-for-detecting-malar,a                     Malaria Cell Images Da,aset,,7081,2590  2018-,2-05 05:40:21.920000          68690       1286  0.625
+sartajbhuvaji/brain-tumor-classification,mri                   Brain Tumor Classifica,ion (MRI,,910,2358  2020-,5-24 16:24:55.367000          81546        763  0.875
+cahyaalkahfi/olympic-medalist-dataset-18,62024                 All Olympic Medalist (,896–2024,,4,2181  2025-,6-29 11:53:27.767000             55          0  1.0
+glhdamar/new-trash-classfication-dataset,New Trash Classficatio,Dataset,,4097025,0  2025-07-,7 01:27:56.877000             34          1  0.875
+bathingtape/branded-bottoms-resale-datas,t                     Branded Bottoms Resale,Dataset,,25872833,9  2025-05-,1 10:29:49.607000            839         25  0.9411765
+anirudhchauhan/retail-store-inventory-fo,ecasting-dataset      Retail Store Inventory,Forecast,ng Dataset,15881,9  2024-11-,4 20:09:48.580000          12305         89  1.0
+ravindrasinghrana/dtdc-courier-dataset,DTDC Courier Dataset,,,86348,4  2025-07-,6 09:46:31.430000             39          1  1.0
+datamunge/sign-language-mnist,Sign Language MNIST,,,656332,6  2017-10-,0 15:09:18.850000         132895       1637  0.7647059
+sahilislam007/death-rates-by-suicide,Death Rates By Suicide,,,444,8  2025-05-,7 06:18:47.497000            925         29  0.9411765
+ngwkhai/vietnamese-diacritics-dataset,Vietnamese Diacritics,ataset,,8669776,7  2025-06-,8 04:21:39.327000             11          8  0.7058824
+paramaggarwal/fashion-product-images-dat,set                   Fashion Product Images,Dataset,,247712157,0  2019-03-,4 18:57:43.307000          57123        751  1.0
+balaka18/email-spam-classification-datas,t-csv                 Email Spam Classificat,on Datas,t CSV,17382,1  2020-03-,0 05:08:13.143000          68892        298  0.9117647
+davidjansa/scanned-czech-receipts-datase,Scanned Czech Receipts,Dataset,,707887,0  2025-07-,2 18:27:00.790000              8          2  0.875
+bhavikjikadara/dog-and-cat-classificatio,-dataset              Cats and Dogs Classifi,ation Da,aset,8127481,7  2023-10-,7 17:44:56.873000          13033         58  0.8125
+adityakadiwal/water-potability,Water Quality,,,2567,9  2021-04-,5 10:27:44.613000         107911       1602  1.0
+cluesec/google-play-music-app-reviews,Google Play Music App,eviews,,38872,5  2025-05-,3 10:29:33.703000            624         20  1.0
+aitbekovalibek/chernobyl-disaster-optimi,er-synthetic-dataset  Chernobyl Disaster Opt,mizer Sy,thetic Datas,t        602,7  2025-06-,4 10:56:15.783000             48         10  0.88235295
+itachi9604/disease-symptom-description-d,taset                 Disease Symptom  Predi,tion,,307,5  2020-05-,4 14:19:59.600000          50505        478  0.9117647
+jakupymeraj/resnet18,RESNET18-J,,,434516,9  2025-05-,3 17:00:39.480000             22         12  1.0
+uciml/default-of-credit-card-clients-dat,set                   Default of Credit Card,Clients,ataset,10253,8  2016-11-,3 03:39:18.993000          89351        973  0.7058824
+gpiosenka/cards-image-datasetclassificat,on                    Cards Image Dataset-Cl,ssificat,on,4038661,5  2022-11-,7 20:02:15.813000          45285        217  0.9117647
+adarsh1077/comprehensive-vehicle-specifi,ations-dataset        Comprehensive Vehicle,pecifica,ions Dataset,251,2  2025-05-,5 05:07:13.073000            554         27  0.9375
+shayanfazeli/heartbeat,ECG Heartbeat Categori,ation Da,aset,1036337,8  2018-05-,1 18:47:34.427000         109483        929  0.5882353
+rakeshkapilavai/ipl-centuries-dataset-20,8-2025      IPL Centuries Dataset (2008-2025,,3412  2025,05-25 02:43:,0.543000,200         12  1.0
+amitabhajoy/bengaluru-house-price-data,Bengaluru House price data,,199644  2018,04-10 10:19:,9.103000,85430        441  0.47058824
+mohamedramadan2040/eu-teacher-job-2022-t,-2035       EU Teacher Job 2022 to 2035,,535  2025,06-28 07:52:,0.220000,6          4  0.9411765
+camnugent/sandp500,S&P 500 stock data,2,283917  2018,02-10 03:15:,3.777000,94370       1081  0.7647059
+viditgandhi/tree-species-identification-,ataset      Tree Species Identification Data,et     7,301434  2024,07-12 10:02:,2.433000,357          4  0.375
+shivavashishtha/dirty-excel-data,Dirty Excel Data,,13123  2022,02-23 11:59:,5.590000,16707        209  0.1764706
+rijulshr/pneumoniamnist,PneumoniaMNIST,,550750  2025,05-28 10:05:,3.200000,393          1  0.5
+uciml/adult-census-income,Adult Census Income,,460936  2016,10-07 23:42:,9.533000,92834        692  0.7058824
+alexanderfreberg/airbnb-listings-2016-da,aset        Airbnb Listings 2016 Dataset,3,245453  2021,12-06 15:19:,2.923000,52474        269  0.11764706
+jacksoncrow/stock-market-dataset,Stock Market Dataset,54,714524  2020,04-02 10:55:,7.307000,58562        542  0.8235294
+rhuebner/human-resources-data-set,Human Resources Data Set,,17041  2020,10-19 13:50:,3.540000,113830       1152  0.8235294
+data855/heart-disease,Heart Disease,,3478  2020,09-08 06:04:,6.323000,17475         54  0.7647059
+nina2025/13-juli-2025-drw,13-Juli-2025-drw,2,813682  2025,07-14 04:37:,0.607000,29          2  0.3529412
+kanaadlimaye/alzheimers-classification-d,taset       Alzheimers Classification Datase,7,754395  2025,06-27 16:24:,4.587000,41          1  1.0
+therohithanand/student-academic-performa,ce-dataset  Student Academic Performance Dat,set,34336  2025,05-12 15:11:,4.293000,4457         62  1.0
+fitcompetition/test-preliminary-round-fi,-2025       Preliminary Round FIT 2025,55,280139  2025,05-24 14:44:,2.347000,317          5  0.8235294
+rabieelkharoua/students-performance-data,et          📚 Students Performance Dataset 📚,,67743  2024,06-12 23:09:,0.903000,53947        726  1.0
+adilshamim8/meta-stock-price-history,META STOCK PRICE HISTORY,,134446  2025,07-17 06:16:,1.780000,61          5  1.0
+mojtaba142/hotel-booking,Hotel Booking,,617760  2021,06-29 05:15:,4.050000,42255        308  1.0
+petermoorhouse/coral-reef-sites,Coral Reef Sites,,,2114,6  2025-07-,4 16:42:12.167000             11          1  1.0
+ruchi798/data-science-job-salaries,Data Science Job Salar,es,,75,2  2022-06-,5 08:59:12.213000          90982       1605  1.0
+ejlok1/toronto-emotional-speech-set-tess,Toronto emotional spee,h set (T,SS),4485720,4  2019-08-,4 23:03:36.797000          44270        262  0.875
+asaniczka/tmdb-movies-dataset-2023-930k-,ovies                 Full TMDB Movies Datas,t 2024 (,M Movies),2306609,6  2025-07-,8 09:41:28.660000          26882        609  1.0
+maharshipandya/-spotify-tracks-dataset,🎹 Spotify Tracks Datas,t,,85715,2  2022-10-,2 14:40:15.300000          60087        373  1.0
+srinivasac/flickr8k-dataset,flickr8k-dataset,,,11131168,9  2025-07-,3 13:39:22.497000             69          0  0.875
+chethuhn/network-intrusion-dataset,Network Intrusion data,et(CIC-I,S- 2017),2408382,0  2023-08-,8 05:32:58.360000          23908         84  0.7058824
+andradaolteanu/gtzan-dataset-music-genre,classification        GTZAN Dataset - Music,enre Cla,sification,13014924,5  2020-03-,4 14:05:33.357000          94960        867  0.88235295
+arashnic/book-recommendation-dataset,Book Recommendation Da,aset,,255007,8  2024-02-,9 11:14:20.917000         102389        438  1.0
+rmisra/news-category-dataset,News Category Dataset,,,278297,9  2022-09-,4 08:07:21.593000          86362        820  1.0
+kartiksaini18/recipe-review-dataset-with,feedback-and-ratings  Recipe Review Dataset,ith Feed,ack and Rati,gs     21653,0  2025-07-,3 06:29:08.713000             21          6  1.0
+bittlingmayer/amazonreviews,Amazon Reviews for Sen,iment An,lysis,5170809,5  2019-11-,8 02:50:34.600000          93522       1032  0.6875
+abhiaero/economic-times-headlines-india-,022-to-2025           Economic Times Headlin,s (India,– 2022 to 2,25    289535,7  2025-07-,4 09:38:38.637000             32          9  0.64705884
+yasserh/walmart-dataset,Walmart Dataset,,,1250,5  2021-12-,6 07:16:20.267000          54132        294  1.0
+melissamonfared/qs-world-university-rank,ngs-2025              QS World University Ra,kings 20,5,704,6  2025-04-,1 15:47:28.667000           3924        145  1.0
+vinothkannaece/sales-dataset,sales dataset,,,276,4  2025-02-,8 05:13:42.943000          12545        122  1.0
+divsmahesh/indian-aqi-trends-and-health-,isk-20192024          Indian AQI Trends and,ealth Ri,k  2019–2024,29611,9  2025-06-,0 16:42:48.097000            328         21  0.7647059
+nicapotato/womens-ecommerce-clothing-rev,ews                   Women's E-Commerce Clo,hing Rev,ews,29241,0  2018-02-,3 19:59:19.153000          83137       1125  0.88235295
+irakozekelly/fertilizer-prediction,Fertilizer prediction,,,9708,3  2025-04-,7 21:20:05.767000           1445         36  0.5882353
+gpreda/medical-transcript-example,Medical transcript exa,ple,,951,6  2025-05-,5 15:58:16.403000            313         19  1.0
+prevek18/ames-housing-dataset,Ames Housing Data,et,,,189065,018-09-10 01:40:13.893000          22923        107  0.1764706
+open-benchmarks/math-500-measuring-mathe,atical-problem-solving     MATH 500: Measuri,g Mathem,tical Proble,Solving,119172,025-06-04 16:24:22.657000            219        118  0.47058824
+mateuszbuda/lgg-mri-segmentation,Brain MRI segment,tion,,,748584920,019-05-02 21:32:45.660000          84539        970  0.875
+marcelbiezunski/gta-san-andreas-vehicle-,tats-full-handling-data    GTA San Andreas V,hicle St,ts - Full Ha,dling Data,7300,025-07-14 19:53:56.777000              0          3  1.0
+trushankvashikar/myanimelist-anime-datas,t-till-june-2025           MyAnimeList Anime,Dataset,till June 20,5),71480343,025-06-19 07:54:21.830000             66          4  0.9411765
+yasserh/student-marks-dataset,Student Marks Dat,set,,,949,022-01-04 11:09:03.650000          34820        208  1.0
+firedmosquito831/student-academic-perfor,ance-simulation-4000       Student Academic,erforman,e 4000,,30223,025-05-27 18:42:55.627000           2078         39  0.88235295
+siddharth0935/himalayan-expeditions,Himalayan Expedit,ons,,,5666717,025-05-20 09:59:29.017000           2748         84  1.0
+paultimothymooney/breast-histopathology-,mages                      Breast Histopatho,ogy Imag,s,,326820824,017-12-19 05:46:40.600000          81008       1073  0.75
+praveengovi/emotions-dataset-for-nlp,Emotions dataset,or NLP,,,738340,020-04-16 06:47:48.530000          52608        328  1.0
+diggusingh/top-260-movies-on-tmdb-with-i,db                         TMDB Top 260 Movi,s with I,Db Ratings,,32882,025-06-14 17:05:16.303000             37          1  1.0
+sumanthvrao/daily-climate-time-series-da,a                          Daily Climate tim,series,ata,,22518,019-08-23 09:22:09.933000          80537        486  1.0
+adilshamim8/educational-backgrounds-of-s,ccessful-people            Educational Backg,ounds of,Successful P,ople,4715,025-07-02 07:01:29.763000           2149         39  1.0
+rewantbhriguvanshi/wimbledon-2024-point-,nd-match-level-statistics  Wimbledon 2024 –,oint & M,tch-Level St,tistics,1713428,025-06-27 11:44:44.143000             24          1  1.0
+rayhanadi/yolo-formatted-mp-idb-malaria-,ataset                     MP-IDB-YOLO: YOLO,Formatte,MP-IDB Mala,ia Dataset,723032939,025-07-05 04:39:48.437000             26          4  0.9375
+mpwolke/social-capital-college,Social Capital by,College,,,211826,025-07-06 00:54:51.473000              9          0  1.0
+shubh4o4/mental-health-mcqs,Mental Health MCQ,,,,4558138,025-06-12 11:42:19.200000             50          3  0.9411765
+manjilkarki/deepfake-and-real-images,deepfake and real,images,,,808722718,022-02-03 15:33:45.663000          30193        121  0.625
+hemajitpatel/code-similarity-dataset-pyt,on-variants                Code Similarity D,taset –,ython Varian,s,39806,025-07-06 06:42:09.403000              7          3  0.9411765
+sam1801/daily-data-of-rainfall-india,Daily data of Rai,fall Ind,a,,143165,025-06-20 20:09:03.570000             46          3  0.9411765
+chaudharisanika/share-of-the-population-,sing-the-internet  Share of the population u,ing the,nternet,451,9  2025-07-,4 16:13:34.610000              8          4  1.0
+samarpanrai/nepal-odi-2018-present-ball-,y-ball-data        Nepal ODI (2018 - Present,: Ball-b,-Ball Data,2309,7  2025-07-,0 18:12:41.520000              4          1  0.9411765
+mohamedramadan2040/wfp-food-prices-in-eg,pt                 WFP Food Prices in Egypt,,,210,2  2025-06-,2 16:03:37.630000             31          6  0.88235295
+aryashah2k/breast-ultrasound-images-data,et                 Breast Ultrasound Images,ataset,,2044214,0  2021-03-,4 04:29:54.023000          52825        404  1.0
+valeriamaciel/e-coli-resistance-dataset,E. coli Resistance Datase,,,31720,0  2025-06-,8 00:47:55.670000             27          1  0.9411765
+mashlyn/online-retail-ii-uci,Online Retail II UCI,,,152171,9  2019-12-,2 11:03:36.200000          25176        198  1.0
+nelgiriyewithana/top-spotify-songs-2023,Most Streamed Spotify Son,s 2023,,481,7  2023-08-,6 11:04:57.730000         117557       1910  1.0
+ashishjangra27/nifty-50-25-yrs-data,Nifty50 (2000 to 2025),,,930,1  2025-06-,2 08:57:43.750000             82          3  0.9411765
+devarajv88/target-dataset,e-Commerce (Target) Sales,Dataset,,379531,2  2024-05-,2 17:41:48.610000          21605         75  1.0
+retailrocket/ecommerce-dataset,Retailrocket recommender,ystem da,aset,3047199,4  2022-11-,8 16:03:10.607000          39764        567  0.88235295
+urvishahir/daily-crypto-tracker-dataset,Daily Global Crypto Marke,Tracker,🌐🪙,54,1  2025-07-,7 23:47:20.357000              4          2  1.0
+techsash/waste-classification-data,Waste Classification data,,,4479142,6  2019-06-,6 03:24:52.733000          43936        498  0.875
+mrwellsdavid/unsw-nb15,UNSW_NB15,,,1562576,7  2019-01-,9 01:06:31.127000         125325        260  0.5294118
+devansodariya/student-performance-data,Student Performance Datas,t,,73,0  2022-05-,6 13:55:09.460000          56318        628  1.0
+aniss7/fifa-player-data-from-sofifa-2025,06-03              Fifa/EA FC 25 player data,from Sof,fa (2025-06-,3)     21636,6  2025-06-,3 14:01:14.660000            116          7  0.7647059
+adamlogman/neurips-dataset,NeurIPS_Preprocessed_Data,et,,36080,2  2025-07-,8 07:04:40.053000            103          3  0.1764706
+omkargurav/face-mask-dataset,Face Mask Detection Datas,t,,1711276,0  2020-07-,1 18:34:42.573000          53521        271  0.625
+rafaqatkhan608/customer-call-center-data,et-analysis        Customer Call Center Data,et + Ana,ysis,179083,9  2025-07-,2 09:53:44.087000             24          3  0.7058824
+shivam2503/diamonds,Diamonds,,,7508,3  2017-05-,5 03:06:57.827000         109448       1082  0.7647059
+spypsc07/imdb-top-movies-dataset,TMDB Top Movies Dataset,,,11964,4  2025-05-,5 04:10:52.120000           1468         28  1.0
+talha97s/smart-water-leak-detection-data,et                  Smart Water Leak Detecti,n Datase,,357,44  2025-07,03 06:47:10.310000             23          1  0.7647059
+rohanrao/nifty50-stock-market-data,NIFTY-50 Stock Market Da,a (2000,2021),19302,63  2021-05,01 09:23:17.367000          87233        867  1.0
+samanfatima7/2020-2025-google-stock-data,et                  2020-2025 Google Stock D,taset,,50,75  2025-06,03 12:17:21.343000           1439         31  1.0
+najeedosmani/wingo-color-prediction,"Win-Go, Color_Prediction",,,55,98  2020-08,04 19:28:15.027000          17319       1125  0.5294118
+arianazmoudeh/airbnbopendata,Airbnb Open Data,,,10964,28  2022-08,01 15:58:10.983000          47775        362  1.0
+jessicali9530/lfw-dataset,Labelled Faces in the Wi,d (LFW),ataset,117895,55  2018-05,17 19:57:27.373000          50247        343  0.7647059
+beijijun/cmi-data,CMI_DATA,,,157443,96  2025-07,14 11:19:40.030000             44          2  0.4117647
+borismarjanovic/price-volume-data-for-al,-us-stocks-etfs     Huge Stock Market Datase,,,515591,18  2017-11,16 14:53:29.820000         132490       4513  0.75
+roxanax/bellabeat-case-study-complete-as,ets                 bellabeat-case-study-com,lete-ass,ts,1521,20  2025-05,18 14:41:42.553000             76         13  1.0
+khushikyad001/cancer-patient-data-in-den,ark                 Cancer Patient Data in D,nmark,,109,04  2025-05,23 16:06:12.483000            558         14  1.0
+jacoblazaar/students-bag-price-dataset,Students Bag Price Datas,t,,1285,13  2025-07,05 11:50:08.590000             65          1  0.3529412
+willianoliveiragibin/budget-and-all-fund,Budget and All Funds,,,7,98  2025-07,06 20:26:24.530000              5          2  1.0
+arnabchaki/data-science-salaries-2023,Data Science Salaries 20,3 💸,,26,34  2023-04,13 09:55:16.493000          78728       1526  1.0
+shwetankchaudhary/power-bi-sample-data,Power BI Sample Data,,,73,87  2022-10,20 15:22:56.010000           8833         57  0.1764706
+jprestiliano/indonesian-chat-dataset,Indonesian Chat Dataset,,,335,31  2025-05,21 08:45:58.357000            135         11  1.0
+pavanelisetty/sample-audio-files-for-spe,ch-recognition      sample audio files for s,eech rec,gnition,2338,42  2020-08,14 03:26:57.500000          32125         49  0.3125
+sudalairajkumar/novel-corona-virus-2019-,ataset              Novel Corona Virus 2019,ataset,,8928,52  2021-06,24 04:27:25.870000         463474       6269  0.9705882
+naserabdullahalam/phishing-email-dataset,Phishing Email Dataset,,,80864,54  2024-05,24 03:47:20.520000          16347         89  1.0
+indk214/brain-tumor-dataset-segmentation,and-classification  Brain Tumor Dataset: Seg,entation,& Classifica,ion   758455,05  2025-05,26 10:52:15.720000           7401         29  0.75
+rtatman/chocolate-bar-ratings,Chocolate Bar Ratings,,,31,56  2017-08,11 23:25:42.487000         103219       1197  0.7647059
+unidpro/british-english-speech-recogniti,n-dataset     English Speech Recognition Dat,set,52,894  2025-06,25 11:09:16,790000             27          3  0.9411765
+tahmidmir/credit-risk-dataset,Credit Risk Dataset,,197,179  2024-07,09 08:39:48,710000            565        125  0.64705884
+tahmidmir/largesentimentdata,Large Sentiment Analysis Bangla,Dataset,27,593  2024-07,27 02:24:04,370000            148        106  0.88235295
+rakeshrau/social-network-ads,Social Network Ads,,,349  2017-08,06 11:52:21,617000          69987        208  0.5294118
+algovai/bd-ethnic-languages,Bd Ethnic Languages Classificat,on,5,164  2025-06,09 13:47:16,210000             42          5  0.9411765
+xontoloyo/data-penjualan-zara,ZARA Sales,,1,161  2024-02,27 05:37:53,493000          16756        124  0.9411765
+aadarshvani/credit-card-dataset-comprehe,sive         Credit Card User Behavior and D,fault Da,aset      43,879  2025-07,08 11:16:06,100000             35          1  0.64705884
+larsen0966/student-performance-data-set,Student Performance Data Set,,1,353  2020-03,27 19:07:23,920000          45380        410  1.0
+mostafaabla/garbage-classification,Garbage Classification (12 clas,es),25064,573  2021-01,24 13:53:11,647000          26665        201  0.8125
+halimbahae/moroccan-e-commerce-sales-and,orders-2018  Moroccan E-Commerce Sales and O,ders (20,8)         1,347  2025-06,29 17:59:59,780000             21          1  1.0
+faresashraf1001/supermarket-sales,Supermarket Sales Dataset,,3,407  2024-09,19 22:44:01,153000           9425         69  0.88235295
+ejlok1/cremad,CREMA-D,,47332,524  2019-08,30 01:23:01,007000          29970        117  0.875
+manpreetaiml/jojo-stand-processed-datase,Jojo Stand Processed Dataset,,,437  2025-07,10 17:19:39,110000              9          3  1.0
+azhou19/ufc-fight-and-event-data-scraped,from-espn    UFC Fight & Event Data (Scraped,from ESP,)         55,067  2025-06,29 20:34:20,137000            105          6  0.9411765
+nitindatta/finance-data,Finance Data,,,956  2020-03,30 11:58:13,727000          21453        200  0.5294118
+willianoliveiragibin/stress-and-sleep-in,ia           Stress and Sleep India,,,256  2025-05,28 22:51:45,057000            361          4  1.0
+toramky/automobile-dataset,Automobile Dataset,,,991  2017-05,24 04:45:13,673000          76276        484  0.7352941
+davidcariboo/player-scores,Football Data from Transfermark,,17267,022  2025-04,11 07:15:53,810000          49860        581  0.9411765
+github/github-repos,GitHub Repos,,,0  2019-03,20 23:20:50,220000              0        406  0.64705884
+joniarroba/noshowappointments,Medical Appointment No Shows,,251,014  2017-08,20 23:49:38,600000          54793       1059  0.7058824
+architsharma01/loan-approval-prediction-,ataset              Loan-Approval-Prediction,Dataset,,825,5  2023-07-,6 16:31:20.923000          29575        195  0.9411765
+flynn28/v2-nba-player-database,V2: NBA Player Database,,,2286,6  2025-05-,0 03:23:08.403000           1036         17  1.0
+berkeleyearth/climate-change-earth-surfa,e-temperature-data  Climate Change: Earth Su,face Tem,erature Data,888435,7  2017-05-,1 17:29:10.780000         164113       2394  0.7647059
+boristown/darkagicompressarc,DarkAGICompressARC,,,235,5  2025-05-,1 14:16:56.210000            168          4  0.1875
+muthuj7/weather-dataset,Weather Dataset,,,23425,5  2017-12-,4 23:52:09.310000          64032        348  0.29411766
+anvithpothula/bfrb-dataset,CMI - Detect Behavior wi,h Sensor,Data Dataset,1865367,5  2025-06-,2 14:40:16.967000             27          3  0.9411765
+ananthr1/weather-prediction,WEATHER PREDICTION,,,118,4  2022-01-,7 03:16:50.423000          52576        350  1.0
+xjoannax88/multitarget-bioactivity-chemb,MultiTarget Bioactivity,hEMBL,,2044,1  2025-07-,1 12:02:00.933000             15          2  1.0
+parisrohan/credit-score-classification,Credit score classificat,on,,99735,5  2022-06-,2 14:30:55.590000          48133        319  0.9411765
+adhurimquku/ford-car-price-prediction,Ford Car Price Predictio,,,1784,5  2022-04-,1 10:15:03.047000          13194        105  0.9411765
+nuhmanpk/remote-and-work-from-home-job-l,sting-with-salary   Remote and Work-From-Hom,Job lis,ing with Sal,ry       255,1  2025-07-,3 17:14:02.640000             10          1  0.9411765
+fleshmetal/records-a-comprehensive-music,metadata-dataset    Records: A Music Metadat,Dataset,,4521025,2  2025-06-,8 03:21:24.453000             39          5  1.0
+ayushmanyashaswi/gold-price-2000-rows-of,data-yashaswi       Gold Price | 2000+ rows,f data |,yashaswi,429,4  2025-06-,6 17:57:15.870000             62          1  1.0
+maroofabdullah/airports-csv,Global Airport Locations,and Meta,ata,3467,5  2025-06-,4 10:57:35.173000            148          6  1.0
+muhammadshahidazeem/customer-churn-datas,t                   Customer Churn Dataset,,,69809,2  2023-06-,4 11:16:49.197000          22111        145  1.0
+teejmahal20/airline-passenger-satisfacti,n                   Airline Passenger Satisf,ction,,28419,5  2020-02-,0 16:51:16.547000         110694        950  0.9411765
+unidpro/hindi-speech-recognition-dataset,Hindi Speech Recognition,Dataset,,1428,0  2025-06-,6 09:36:29.667000              8          2  0.9411765
+leaffallen/net-tools-new,net-tools-new,,,48308,7  2024-11-,6 13:50:23.110000             79          4  0.1875
+amirmotefaker/supply-chain-dataset,Supply Chain DataSet,,,93,0  2023-06-,1 16:31:06.200000          16950         91  1.0
+usdot/flight-delays,2015 Flight Delays and C,ncellati,ns,20006,268  2017-0,-09 21:36:00.933000         149013       1113  0.88235295
+ananthu017/emotion-detection-fer,Emotion Detection,,,6832,503  2020-1,-11 06:06:37.220000          41568        310  0.875
+andrewmvd/lung-and-colon-cancer-histopat,ological-images     Lung and Colon Cancer Hi,topathol,gical Images,188936,933  2020-0,-14 06:57:56.433000          35459        294  0.875
+viswaprakash1990/garbage-detection,Garbage Detection – 6 Wa,te Categ,ries,19996,613  2025-0,-20 17:32:59.337000            367          5  1.0
+unidpro/men-hair-loss-dataset,Hair Loss in Men Segment,tion Dat,set - 3100 I,age     2236,965  2025-0,-08 10:22:06.773000              6          3  0.9411765
+unidpro/women-hair-loss-dataset,Hair Loss in Women Segme,tation D,taset,1303,920  2025-0,-08 10:22:31.613000              8          3  0.9411765
+nuhmanpk/internships-listing-with-salary,and-location        Internships listing with,salary a,d location,1,839  2025-0,-03 17:28:23.950000             10          2  0.9411765
+muhammadwaqas023/pipeline-dataset-in-oil,and-gas-sector      Pipeline dataset in oil,nd gas s,ctor/fertili,er         2,261  2025-0,-29 12:17:12.120000            294          8  1.0
+cyberprince/linux-terminal-commands-data,et                  Linux Terminal Commands,ataset,,3,599  2025-0,-21 06:01:43.217000             72          7  0.9375
+ryanholbrook/tensorflow-flowers,TensorFlow Flowers,,,22845,015  2020-0,-24 18:58:21.950000           1910         26  0.4375
+erdemtaha/cancer-data,Cancer Data,,,4,810  2023-0,-22 07:57:00.013000          38562        349  1.0
+vikrishnan/iris-dataset,Iris Dataset,,,,999  2017-0,-03 16:00:44.663000          51926        165  0.7647059
+jessicali9530/stanford-dogs-dataset,Stanford Dogs Dataset,,,78695,428  2019-1,-13 06:20:35.130000          64311       1110  0.75
+dschettler8845/brats-2021-task1,BRaTS 2021 Task 1 Datase,,,1319477,959  2021-0,-19 21:59:00.420000          37945        280  0.875
+sharmajicoder/apple-stock-data-from-2010,to-2024             Apple Stock Data from 20,0 to 202,,10,906  2025-0,-20 11:47:27.880000             48          2  0.9411765
+alexandervc/cayleypy-development-3-growt,-computations       CayleyPy Development 3:,rowth co,putations,1593,072  2025-0,-04 12:07:53.363000            135         13  0.8125
+tahmidmir/air-quality-index-of-banglades,-dataset            Air Quality Index of Ban,ladesh D,taset,8711,755  2024-0,-01 14:22:10.417000            418        148  0.8235294
+sushantdahal10/movie-ratings-and-reviews,dataset-500-movies  Movie Ratings and Review,Dataset,(500 Movies),,922  2025-0,-12 09:15:54.437000            145         22  0.64705884
+computingvictor/transactions-fraud-datas,ts                  💳 Financial Transactions,Dataset:,Analytics,36462,121  2024-1,-31 21:29:56.830000          22737        193  1.0
+aakashsudhakar/mcu-ratings-and-box-offic,-data-updated-2025  MCU Ratings & Box Office,Data (Up,"ated, 2025)",,375  2025-0,-25 19:11:57.997000             21          0  0.8235294
+harishkumardatalab/housing-price-predict,on                     Housing Price Predict,on,,,4740  2023,07-07 04:34:24.113000          25322        215  1.0
+shariful07/student-mental-health,Student Mental health,,,,1664  2023,02-17 02:11:56.963000          67192        590  0.88235295
+bwandowando/metakaggle-forum-data-jina-s,all-eng-v1-embeddings  MetaKaggle Forum Data,Jina-Sma,l-Eng-V1 Emb,ddings  7290,71023  2025,06-04 08:34:39.157000             34         14  0.9411765
+prathamtripathi/drug-classification,Drug Classification,,,,1720  2020,08-14 17:18:56.667000          47486        394  1.0
+jackdaoud/marketing-data,Marketing Analytics,,,,58411  2022,03-06 23:34:23.433000          61928        659  0.9411765
+patelris/crop-yield-prediction-dataset,Crop Yield Prediction,Dataset,,,81807  2021,12-01 11:20:48.350000          39998        238  0.9705882
+utkarshsharma11r/student-mental-health-a,alysis                 Student Mental Health,Analysis,,,10711  2025,05-10 12:12:05.473000           4091         45  1.0
+adilshamim8/cost-of-international-educat,on                     Cost of International,Educatio,,,18950  2025,05-07 15:41:53.213000           8841        122  1.0
+nazmul0087/ct-kidney-dataset-normal-cyst,tumor-and-stone        CT KIDNEY DATASET: No,mal-Cyst,Tumor and St,ne      1627,19308  2021,11-01 05:06:16.863000          24025        198  1.0
+adi2606/a-collection-of-technical-manual,A collection of techn,cal manu,ls,,77506  2025,05-29 09:57:12.217000             69          6  1.0
+yagizfiratt/uefa-rankings-2025,UEFA Rankings 2025,,,,1523  2025,07-01 08:56:31.210000             17          1  1.0
+imtkaggleteam/mental-health,Mental Health,,,,46265  2023,07-26 18:23:20.530000          22027        328  1.0
+miadul/introvert-extrovert-and-ambivert-,"lassification          Introvert, Extrovert",Ambiver,Classificat,on         4,32684  2025,06-22 04:37:56.110000           1350         37  0.7058824
+juhibhojani/house-price,House Price,,,6,26090  2023,08-02 16:51:21.130000          18349        181  0.9411765
+deepcontractor/car-price-prediction-chal,enge                   Car Price Prediction,hallenge,,,39363  2022,07-06 11:38:32.267000          20917        214  0.9411765
+ryanholbrook/eurosat,EuroSAT,,,86,94309  2020,06-08 14:11:20.253000           2636         51  0.6875
+ashydv/housing-dataset,Housing Dataset,,,,4740  2019,03-07 16:57:25.897000          35560        101  0.1764706
+suchintikasarkar/sentiment-analysis-for-,ental-health           Sentiment Analysis fo,Mental,ealth,11,87194  2024,07-05 13:58:31.213000          19434        217  1.0
+adilshamim8/student-depression-dataset,Student Depression Da,aset,,,67020  2025,03-13 03:12:30.423000          34570        444  1.0
+omniamahmoudsaeed/real-estate-sales-2001,2022                   Real Estate Sales 200,-2022,,38,98519  2025,05-10 23:13:53.627000           3906         50  1.0
+manasgarg/ipl,Indian Premier League (Cricket,,,060442  2017,11-23 01:33,56.327000          85073        894  0.85294116
+jonathanoheix/face-expression-recognitio,-dataset      Face expression recognition da,aset,12,358582  2019,01-03 08:16,53.387000          72915        599  0.1875
+awsaf49/cbis-ddsm-breast-cancer-image-da,aset          CBIS-DDSM: Breast Cancer Image,Dataset,531,997088  2021,01-24 07:35,59.737000          41175        316  0.7058824
+chaudharisanika/quotes-dataset,Quotes_Dataset,,,3844  2025,06-05 08:52,26.833000             76          8  1.0
+ai4a-lab/comprehensive-soil-classificati,n-datasets    Comprehensive Soil Classificat,on Datas,ts        51,189522  2025,06-12 11:07,04.747000             81          8  0.9375
+tahmidmir/social-media-surveillance,Social Media Surveillance,,,874020  2024,07-08 06:40,21.927000            298        115  0.9411765
+rkiattisak/salaly-prediction-for-beginer,Salary Prediction dataset,,,3277  2023,03-07 02:45,11.253000          25858        161  1.0
+kritikseth/fruit-and-vegetable-image-rec,gnition       Fruits and Vegetables Image Re,ognition,Dataset  213,757290  2022,02-12 06:15,55.417000          49287        448  0.875
+mrvipinsoni/blinkit-sales-dataset,Blinkit Sales Dataset,,,726820  2025,07-05 11:48,06.957000             71          0  0.7647059
+samanfatima7/crypto-market-snapshot,🪙💸Latest Crypto Market Snapsho,,,576824  2025,06-20 11:00,52.800000             79          8  1.0
+willianoliveiragibin/international-debt-,tatistics     International_Debt_Statistics,,,10691  2025,06-23 22:59,52.233000             34          4  1.0
+henriqueyamahata/bank-marketing,Bank Marketing,,,402740  2018,06-06 15:19,35.950000          53128        446  0.64705884
+venky73/spam-mails-dataset,Spam Mails Dataset,,,954828  2019,01-23 13:44,37.923000          49342        186  0.7941176
+amerhu/cover-crop-breeding-network-subse,Cover Crop Breeding Network Su,set,,216181  2025,06-16 03:45,00.583000              5         22  0.64705884
+atharvasoundankar/chocolate-sales,Chocolate Sales Data 📊🍫,,,14473  2025,03-19 03:51,40.270000          33333        465  1.0
+sumn2u/garbage-classification-v2,Garbage Dataset,,78,289207  2024,12-12 15:55,45.503000          11535         75  1.0
+ramjidoolla/ipl-data-set,IPL _Data_Set,,,299923  2020,09-14 10:57,42.437000          47332        456  0.9705882
+bravehart101/sample-supermarket-dataset,Sample Superstore Dataset,,,167457  2020,07-17 07:52,46.827000          49155        225  0.9411765
+kunshbhatia/crop-production-data-raw-ref,ned           Crop Production Data ( Raw + R,fined),,119629  2025,07-14 12:00,18.490000             13          2  1.0
+mohamedramadan2040/health-facilities-in-,cc-countries  🏥 Health Facilities in GCC Cou,tries,,4533  2025,07-01 19:01,50.060000             18          5  0.8235294
+tahmidmir/lyme-disease-dataset,Lyme Disease Datas,t,,,32884,024-07-11 01:43:48.857000            211        130  0.9411765
+tahmidmir/bangla-tense-present-past-futu,e                         Bangla Tense (Pres,"nt, Past",Future),,217221,024-08-01 06:59:27.973000             42        100  0.7647059
+djzurawski/us-oil-and-gas-production-jun,-2008-to-june-2018        US Oil and Gas Pro,uction J,ne 2008 to J,ne 2018,11640,018-09-16 17:40:01.263000          11105         42  0.5882353
+mohamedramadan2040/gcc-demographic-data-,y-gender-and-nationality  GCC Demographic Da,a by Gen,er & Nationa,ity,100854,025-06-06 14:10:29.350000            131          8  1.0
+himanshupoddar/zomato-bangalore-restaura,ts                        Zomato Bangalore R,staurant,,,93341357,019-03-31 09:48:43.983000          80654       1375  1.0
+neuromusic/avocado-prices,Avocado Prices,,,,643781,018-06-06 05:28:35.433000         326368       3798  0.9705882
+ziya07/hate-speech-detection-dataset-for,social-media              Hate Speech Datase,for Soc,al Media,,76738,025-06-09 10:36:05.787000            119          4  0.88235295
+burak3ergun/loan-data-set,Loan Data Set,,,,7991,018-11-08 21:27:34.153000          25618        140  0.5294118
+rounakbanik/pokemon,The Complete Pokem,n Datase,,,47750,017-09-29 19:49:32.160000          82080       1231  0.8235294
+sudalairajkumar/cryptocurrencypricehisto,y                         Cryptocurrency His,orical P,ices,,1782192,021-07-07 06:39:23.893000          98722       1173  0.9705882
+zahidmughal2343/amazon-sales-2025,Amazon Sales 2025,,,,3617,025-04-03 22:08:13.607000          10603        106  1.0
+hesh97/titanicdataset-traincsv,Titanic-Dataset (t,ain.csv),,,22544,018-02-02 04:51:06.950000         106792        557  0.4117647
+discovertalent143/supply-chain-dataset,Supply Chain Datas,t,,,2151,025-07-05 13:43:00.570000             25          1  0.88235295
+asmrgaming/deeplearning-ensemble-for-aut,mated-acne-detection      DeepLearning Ensem,le for A,tomated Acne,Detection,676760577,025-06-30 12:14:37.727000             17          3  0.9375
+debashis74017/nifty-50-minute-data,NSE - Nifty 50 Ind,x Minute,data (2015 t,2025),174193962,025-03-05 06:03:14.470000          22249        286  1.0
+hmavrodiev/london-bike-sharing-dataset,London bike sharin,dataset,,,169271,019-10-10 12:49:37.920000          39222        488  1.0
+mysarahmadbhat/lung-cancer,Lung Cancer,,,,2046,021-10-01 13:39:48.130000          56359        575  1.0
+allen-institute-for-ai/CORD-19-research-,hallenge                  COVID-19 Open Rese,rch Data,et Challenge,(CORD-19)  1,724979450,022-06-06 19:39:40.923000         190356      11173  0.88235295
+ravindrasinghrana/employeedataset,Employee/HR Datase,(All in,One),,532825,023-08-13 08:06:29.177000          25253        172  1.0
+harshsingh2209/supply-chain-analysis,Supply Chain Analy,is,,,9340,023-04-22 23:32:27.850000          26768        244  1.0
+snehilsanyal/construction-site-safety-im,ge-dataset-roboflow  Construction Site Safet,Image D,taset Robofl,w      21602,261  2023-0,-23 06:34:26.160000          18941        168  1.0
+kritanjalijain/amazon-reviews,Amazon reviews,,,138922,210  2021-0,-15 09:45:40.597000          31185        210  1.0
+mohamedhanyyy/chest-ctscan-images,Chest CT-Scan images Da,aset,,12437,012  2020-0,-20 18:46:59.290000          39326        400  0.9375
+abdelrahmanahmed110/quranic-ayahs-with-t,fseer-json-dataset   Quranic Ayahs with Tafs,er JSON,ataset,306,221  2025-0,-06 09:34:52.670000              5          3  0.9375
+laotse/credit-risk-dataset,Credit Risk Dataset,,,37,518  2020-0,-02 06:10:39.067000          42327        267  0.7058824
+prokshitha/home-value-insights,House Price Regression,ataset,,2,045  2024-0,-06 15:15:12.620000           9513         81  1.0
+gmudit/employer-data,Employee Data,,,16,688  2025-0,-04 18:14:00.060000             36          1  1.0
+abhi8923shriv/sentiment-analysis-dataset,Sentiment Analysis Data,et,,5709,644  2021-0,-03 10:08:17.403000          42654        165  0.7058824
+sshikamaru/car-object-detection,Car Object Detection,,,11750,383  2022-0,-26 17:37:34.220000         112295        493  0.88235295
+unidpro/video-emotion-recognition-datase,Video Emotion Recogniti,n Datase,"- 1,000+ Vi",eo       646,798  2025-0,-07 13:57:03.237000              9          2  0.9411765
+ashydv/advertising-dataset,Advertising Dataset,,,,869  2019-0,-07 06:16:58.190000          59170        154  0.4117647
+hsankesara/flickr-image-dataset,Flickr Image dataset,,,876539,518  2018-0,-12 20:34:20.467000          59795        608  0.7058824
+kaggle/meta-kaggle-code,Meta Kaggle Code,,,14915369,537  2025-0,-17 08:19:39.143000           3442        219  0.875
+gunavenkatdoddi/eye-diseases-classificat,on                   eye_diseases_classifica,ion,,77135,331  2022-0,-28 09:24:24.113000          24755        175  0.875
+makslypko/f1-race-result-2025,F1 - Race Result 2025🏁🏎,,,,732  2025-0,-06 13:19:03.910000            200         13  0.9411765
+awsaf49/brats2020-training-data,Brain Tumor Segmentatio,(BraTS20,0),725422,710  2020-0,-21 08:38:50.390000          26902        256  0.7058824
+nina2025/15-juli-2025-drw,15-juli-2025-drw,,,2831,318  2025-0,-18 02:01:32.187000             41          3  0.3529412
+emineyetm/fake-news-detection-datasets,Fake News Detection Dat,sets,,4297,967  2022-1,-07 11:45:17.723000          25300        101  0.5294118
+shrutimehta/zomato-restaurants-data,Zomato Restaurants Data,,,573,543  2018-0,-13 04:56:25.810000          76083        746  0.7941176
+mehmettahiraslan/customer-shopping-datas,t                    Customer Shopping Datas,t - Reta,l Sales Data,171,272  2023-0,-09 07:44:35.310000          36644        273  1.0
+saigouthampydi/phonepe-pulse-district-up,-data                      PhonePe Pulse Dis,rict UPI,Data,,9802,025-07-08 12:28:15.277000             16          3  0.9411765
+jadeacevedo/sickle-cell-clinical-notes,Sickle Cell Patie,t Clinic,l Notes Data,et,2112637,025-06-18 15:24:33.170000             65          1  0.9411765
+wcukierski/enron-email-dataset,The Enron Email D,taset,,,375294957,016-06-16 20:55:19.983000          67437        779  0.7647059
+umerhaddii/f1-25-italian-monaco-spain-gp,"F1-25: Italian, M","naco, Sp",in GPs,,120564,025-06-02 13:09:30.383000             97         24  0.9411765
+andrewmvd/ocular-disease-recognition-odi,5k                         Ocular Disease Re,ognition,,,742372148,020-09-24 16:26:29.043000          49447        483  0.8235294
+novandraanugrah/bitcoin-historical-datas,ts-2018-2024               BITCOIN Historica,Dataset,2018-2025 B,nance API,18798314,025-07-18 02:15:00.957000          11895        104  0.8235294
+joaocoelho03/pocket-tcg-dataset,Pokemon TCG Pocke,Dataset,,,12972,025-06-26 14:30:17.143000             97          7  1.0
+kamilpytlak/personal-key-indicators-of-h,art-disease                Indicators of Hea,t Diseas,(2022 UPDAT,),22474335,023-10-12 10:58:16.473000          89946        921  0.9411765
+sushantdahal10/e-commerceproduct-sales-d,ta-revenueratingreturn     E-CommerceProduct,Sales Da,"a Revenue,Ra","ing,Return",11602,025-06-12 09:14:16.357000            409         27  0.64705884
+bhanupratapbiswas/hr-analytics-case-stud,HR Analytics: Cas,Study,,,51338,023-06-12 05:27:02.843000           4448         94  1.0
+runningwithrock/2026-boston-marathon-cut,ff-prediction-dataset      2026 Boston Marat,on Cutof,Prediction,ataset,40848176,025-07-06 11:07:33.537000            172          6  1.0
+unidpro/speech-emotion-recognition,Speech Emotion Re,ognition,Dataset,,28927085,025-06-16 00:32:37.077000             31          2  0.9411765
+reihanenamdari/breast-cancer,Breast Cancer,,,,43831,022-08-08 19:25:55.810000          34617        370  1.0
+samuelcortinhas/cats-and-dogs-image-clas,ification                  Cats and Dogs ima,e classi,ication,,67566406,022-12-20 12:12:56.963000          33542        176  0.875
+shivamb/real-or-fake-fake-jobposting-pre,iction                     Real / Fake Job P,sting Pr,diction,,16868281,020-02-29 08:23:34.750000          40307        688  1.0
+dmitrykonovalov/black-friday-2024,black-friday-2024,,,,26146,024-02-06 01:17:51.270000             38          0  0.4117647
+iamsouravbanerjee/customer-shopping-tren,s-dataset                  Customer Shopping,Trends D,taset,,149846,023-10-05 06:45:37.530000          70966        836  1.0
+unidpro/russian-speech-recognition-datas,t                          Russian Speech Re,ognition,Dataset - 33,Hours,249391,025-06-30 10:18:09.667000              4          2  0.9411765
+meghanabmvrss/telugu-and-hindi-film-data,et-for-revenue-prediction  Telugu & Hindi Fi,m Datase,for Revenue,Prediction,44623,025-06-13 17:48:55.513000             47          2  0.9411765
