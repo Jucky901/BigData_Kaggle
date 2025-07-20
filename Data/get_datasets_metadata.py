@@ -41,7 +41,7 @@ for page in range(1, pages + 1):
 
 # Save to CSV
 df = pd.DataFrame(all_datasets)
-df.to_csv("kaggle_datasets_metadata_250719.csv", index=False)
+df.to_csv("kaggle_datasets_metadata_250720.csv", index=False)
 
 print(f"✅ Done. Saved {len(df)} datasets to kaggle_datasets_metadata.csv")
 
