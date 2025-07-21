@@ -1,8 +1,9 @@
 import subprocess
 import pandas as pd
 import time
+import re
 
-MAX_DATASETS = 4000
+MAX_DATASETS = 4000  # Adjust this as needed
 PAGE_SIZE = 100
 pages = (MAX_DATASETS + PAGE_SIZE - 1) // PAGE_SIZE
 
@@ -17,19 +18,25 @@ for page in range(1, pages + 1):
         lines = result.stdout.strip().split('\n')
 
         # Skip header and divider lines
-        headers = lines[0]
         data_lines = [line for line in lines[2:] if line.strip()]
 
         for line in data_lines:
-            # Slice columns based on position (this works with current CLI output format)
+            # Split line by 2 or more spaces
+            parts = re.split(r'\s{2,}', line)
+
+            if len(parts) < 7:
+                print(f"⚠️ Skipping malformed line: {line}")
+                continue
+
             dataset = {
-                "ref": line[0:40].strip(),
-                "title": line[41:85].strip(),
-                "size": line[86:94].strip(),
-                "lastUpdated": line[95:107].strip(),
-                "downloadCount": line[108:120].strip(),
-                "voteCount": line[121:132].strip(),
-                "usabilityRating": line[133:].strip(),
+                "ref": parts[0],
+                "title": parts[1],
+                "size": parts[2],
+                "lastUpdated": parts[3],
+                "downloadCount": parts[4],
+                "voteCount": parts[5],
+                "usabilityRating": parts[6],
+                "day": 1
             }
             all_datasets.append(dataset)
 
@@ -41,7 +48,6 @@ for page in range(1, pages + 1):
 
 # Save to CSV
 df = pd.DataFrame(all_datasets)
-df.to_csv("kaggle_datasets_metadata_250720.csv", index=False)
+df.to_csv("kaggle_datasets_metadata_250721.csv", index=False)
 
-print(f"✅ Done. Saved {len(df)} datasets to kaggle_datasets_metadata.csv")
-
+print(f"✅ Done. Saved {len(df)} datasets to kaggle_datasets_metadata_250721.csv")
